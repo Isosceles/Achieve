@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedescenderabkhasian-cy" format="1">
+  <advance width="972"/>
+  <unicode hex="04BE"/>
+  <outline>
+    <contour>
+      <point x="513" y="-100" type="line"/>
+      <point x="529" y="17" type="line"/>
+      <point x="469" y="17" type="line"/>
+      <point x="453" y="-100" type="line"/>
+    </contour>
+    <component base="Cheabkhasian-cy" xOffset="1"/>
+    <component base="dieresiscomb" xOffset="392" yOffset="189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 07:10:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

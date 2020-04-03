@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dzeabkhasian-cy" format="1">
+  <advance width="701"/>
+  <unicode hex="04E1"/>
+  <outline>
+    <contour>
+      <point x="431" y="-100" type="line" smooth="yes"/>
+      <point x="536" y="-100"/>
+      <point x="621" y="-15"/>
+      <point x="621" y="90" type="curve" smooth="yes"/>
+      <point x="621" y="195"/>
+      <point x="536" y="279"/>
+      <point x="431" y="280" type="curve" smooth="yes"/>
+      <point x="222" y="281" type="line"/>
+      <point x="227" y="266" type="line"/>
+      <point x="589" y="509" type="line" smooth="yes"/>
+      <point x="605" y="520"/>
+      <point x="612" y="536"/>
+      <point x="612" y="551" type="curve" smooth="yes"/>
+      <point x="612" y="576"/>
+      <point x="593" y="600"/>
+      <point x="561" y="600" type="curve" smooth="yes"/>
+      <point x="89" y="600" type="line"/>
+      <point x="89" y="540" type="line"/>
+      <point x="554" y="540" type="line"/>
+      <point x="549" y="555" type="line"/>
+      <point x="193" y="314" type="line" smooth="yes"/>
+      <point x="176" y="303"/>
+      <point x="169" y="286"/>
+      <point x="169" y="271" type="curve" smooth="yes"/>
+      <point x="169" y="245"/>
+      <point x="189" y="220"/>
+      <point x="222" y="220" type="curve" smooth="yes"/>
+      <point x="431" y="220" type="line" smooth="yes"/>
+      <point x="503" y="220"/>
+      <point x="561" y="162"/>
+      <point x="561" y="90" type="curve" smooth="yes"/>
+      <point x="561" y="18"/>
+      <point x="503" y="-40"/>
+      <point x="431" y="-40" type="curve" smooth="yes"/>
+      <point x="237" y="-40" type="line" smooth="yes"/>
+      <point x="192" y="-40"/>
+      <point x="153" y="-17"/>
+      <point x="129" y="17" type="curve"/>
+      <point x="80" y="-16" type="line"/>
+      <point x="114" y="-67"/>
+      <point x="171" y="-100"/>
+      <point x="237" y="-100" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:36:32 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>Dzeabkhasian-cy</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>Dzeabkhasian-cy</string>
+    </dict>
+  </lib>
+</glyph>

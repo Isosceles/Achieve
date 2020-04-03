@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tedescender-cy" format="1">
+  <advance width="780"/>
+  <unicode hex="04AC"/>
+  <outline>
+    <contour>
+      <point x="480" y="-100" type="line"/>
+      <point x="480" y="0" type="line" smooth="yes"/>
+      <point x="480" y="39"/>
+      <point x="459" y="60"/>
+      <point x="420" y="60" type="curve"/>
+      <point x="420" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="420" y="0" type="line"/>
+      <point x="420" y="670" type="line"/>
+      <point x="360" y="670" type="line"/>
+      <point x="360" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="700" y="640" type="line"/>
+      <point x="700" y="700" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="80" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="391" type="move" name="stroke"/>
+    </contour>
+    <contour>
+      <point x="390" y="391" type="move" name="bar"/>
+    </contour>
+    <contour>
+      <point x="384" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="385" y="8" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:43:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>T</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>T</string>
+    </dict>
+  </lib>
+</glyph>

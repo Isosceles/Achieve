@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Palochka-cy" format="1">
+  <advance width="260"/>
+  <unicode hex="04C0"/>
+  <outline>
+    <contour>
+      <point x="156" y="700" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="216" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="64" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="210" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="239" y="1079" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="95" y="8" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 05:51:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

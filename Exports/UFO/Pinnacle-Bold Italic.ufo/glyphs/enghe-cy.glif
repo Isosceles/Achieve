@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="enghe-cy" format="1">
+  <advance width="848"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="628" y="600" type="line" smooth="yes"/>
+      <point x="530" y="600"/>
+      <point x="458" y="537"/>
+      <point x="445" y="439" type="curve" smooth="yes"/>
+      <point x="383" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="610" y="480" type="line"/>
+      <point x="607" y="454"/>
+      <point x="590" y="440"/>
+      <point x="564" y="440" type="curve"/>
+      <point x="828" y="440" type="line"/>
+      <point x="850" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="600" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="282" y="600" type="line"/>
+    </contour>
+    <contour>
+      <point x="171" y="380" type="line"/>
+      <point x="149" y="220" type="line"/>
+      <point x="497" y="220" type="line"/>
+      <point x="519" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 07:52:11 +0000</string>
+    </dict>
+  </lib>
+</glyph>

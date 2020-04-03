@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yat-cy" format="1">
+  <advance width="719"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="363" y="0" type="line" smooth="yes"/>
+      <point x="517" y="0"/>
+      <point x="655" y="134"/>
+      <point x="655" y="286" type="curve" smooth="yes"/>
+      <point x="655" y="413"/>
+      <point x="560" y="510"/>
+      <point x="431" y="510" type="curve" smooth="yes"/>
+      <point x="235" y="510" type="line"/>
+      <point x="212" y="350" type="line"/>
+      <point x="412" y="350" type="line" smooth="yes"/>
+      <point x="460" y="350"/>
+      <point x="493" y="316"/>
+      <point x="493" y="272" type="curve" smooth="yes"/>
+      <point x="493" y="212"/>
+      <point x="437" y="160"/>
+      <point x="381" y="160" type="curve" smooth="yes"/>
+      <point x="266" y="160" type="line" smooth="yes"/>
+      <point x="263" y="160"/>
+      <point x="262" y="162"/>
+      <point x="262" y="165" type="curve" smooth="yes"/>
+      <point x="337" y="700" type="line"/>
+      <point x="177" y="700" type="line"/>
+      <point x="102" y="162" type="line" smooth="yes"/>
+      <point x="100" y="150"/>
+      <point x="99" y="138"/>
+      <point x="99" y="128" type="curve" smooth="yes"/>
+      <point x="99" y="45"/>
+      <point x="149" y="0"/>
+      <point x="241" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="76" y="557" type="line"/>
+      <point x="396" y="557" type="line"/>
+      <point x="408" y="643" type="line"/>
+      <point x="88" y="643" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="454" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="479" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="381" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="329" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:52:03 +0000</string>
+    </dict>
+  </lib>
+</glyph>

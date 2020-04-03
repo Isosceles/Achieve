@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abrevedotbelow" format="1">
+  <advance width="689"/>
+  <unicode hex="1EB7"/>
+  <outline>
+    <component base="a"/>
+    <component base="brevecomb" xOffset="156" yOffset="59"/>
+    <component base="dotaccentcomb" xOffset="261" yOffset="-849"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 20:59:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

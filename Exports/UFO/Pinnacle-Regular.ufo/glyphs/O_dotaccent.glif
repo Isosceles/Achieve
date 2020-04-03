@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odotaccent" format="1">
+  <advance width="863"/>
+  <unicode hex="022E"/>
+  <outline>
+    <component base="O"/>
+    <component base="dotaccentcomb" xOffset="351" yOffset="187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 16:24:48 +0000</string>
+    </dict>
+  </lib>
+</glyph>

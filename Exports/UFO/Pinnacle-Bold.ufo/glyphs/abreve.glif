@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve" format="1">
+  <advance width="704"/>
+  <unicode hex="0103"/>
+  <outline>
+    <component base="a"/>
+    <component base="breve" xOffset="171" yOffset="36"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 22:09:34 +0000</string>
+    </dict>
+  </lib>
+</glyph>

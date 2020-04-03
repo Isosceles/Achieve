@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>1000</integer>
+	<key>capHeight</key>
+	<integer>700</integer>
+	<key>copyright</key>
+	<string>(C) 2017 Lauren Herda, All Rights Reserved</string>
+	<key>descender</key>
+	<integer>-230</integer>
+	<key>familyName</key>
+	<string>Pinnacle</string>
+	<key>openTypeHeadCreated</key>
+	<string>2014/12/04 02:20:36</string>
+	<key>openTypeNameDesigner</key>
+	<string>Lauren Herda</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>herda.me</string>
+	<key>openTypeNameManufacturer</key>
+	<string>Isosceles</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>isoscel.es</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>Pinnacle</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Light</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>300</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-26</integer>
+		<integer>0</integer>
+		<integer>600</integer>
+		<integer>612</integer>
+		<integer>700</integer>
+		<integer>726</integer>
+		<integer>800</integer>
+		<integer>816</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Pinnacle-Light</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-246</integer>
+		<integer>-230</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>60</integer>
+		<integer>60</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>60</integer>
+		<integer>60</integer>
+	</array>
+	<key>styleMapFamilyName</key>
+	<string>Pinnacle Light</string>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Light</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>0</integer>
+	<key>versionMinor</key>
+	<integer>950</integer>
+	<key>xHeight</key>
+	<integer>600</integer>
+</dict>
+</plist>

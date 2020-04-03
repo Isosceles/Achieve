@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shcha-cy" format="1">
+  <advance width="890"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="728" y="0" type="line"/>
+      <point x="826" y="700" type="line"/>
+      <point x="766" y="700" type="line"/>
+      <point x="673" y="33" type="line"/>
+      <point x="704" y="60" type="line"/>
+      <point x="136" y="60" type="line" smooth="yes"/>
+      <point x="119" y="60"/>
+      <point x="108" y="72"/>
+      <point x="110" y="89" type="curve" smooth="yes"/>
+      <point x="196" y="700" type="line"/>
+      <point x="136" y="700" type="line"/>
+      <point x="51" y="94" type="line" smooth="yes"/>
+      <point x="44" y="41"/>
+      <point x="79" y="0"/>
+      <point x="132" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="774" y="-100" type="line"/>
+      <point x="788" y="-2" type="line" smooth="yes"/>
+      <point x="793" y="37"/>
+      <point x="774" y="60"/>
+      <point x="735" y="60" type="curve"/>
+      <point x="714" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="419" y="45" type="line"/>
+      <point x="511" y="700" type="line"/>
+      <point x="451" y="700" type="line"/>
+      <point x="359" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="506" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="531" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="433" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="381" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:49:09 +0000</string>
+    </dict>
+  </lib>
+</glyph>

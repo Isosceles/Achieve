@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="1">
+  <advance width="828"/>
+  <unicode hex="1EA4"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb" xOffset="205" yOffset="182"/>
+    <component base="acutecomb" xOffset="311" yOffset="409"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 16:44:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

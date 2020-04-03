@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="828"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="230" y="280" type="line"/>
+      <point x="230" y="120" type="line"/>
+      <point x="599" y="120" type="line"/>
+      <point x="599" y="280" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="598" type="line"/>
+      <point x="568" y="674"/>
+      <point x="496" y="725"/>
+      <point x="415" y="725" type="curve"/>
+      <point x="334" y="725"/>
+      <point x="261" y="675"/>
+      <point x="234" y="598" type="curve"/>
+      <point x="40" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="386" y="546" type="line"/>
+      <point x="390" y="557"/>
+      <point x="402" y="565"/>
+      <point x="415" y="565" type="curve"/>
+      <point x="428" y="565"/>
+      <point x="439" y="558"/>
+      <point x="443" y="546" type="curve"/>
+      <point x="621" y="0" type="line"/>
+      <point x="788" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="415" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="415" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="414" y="1079" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="689" y="8" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:35:28 +0000</string>
+    </dict>
+  </lib>
+</glyph>

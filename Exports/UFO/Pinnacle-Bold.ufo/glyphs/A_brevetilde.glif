@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevetilde" format="1">
+  <advance width="828"/>
+  <unicode hex="1EB4"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb" xOffset="230" yOffset="146"/>
+    <component base="tildecomb" xOffset="104" yOffset="300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 16:51:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

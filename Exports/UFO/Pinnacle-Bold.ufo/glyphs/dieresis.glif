@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresis" format="1">
+  <advance width="414"/>
+  <unicode hex="00A8"/>
+  <outline>
+    <contour>
+      <point x="146" y="650"/>
+      <point x="176" y="680"/>
+      <point x="176" y="717" type="curve" smooth="yes"/>
+      <point x="176" y="754"/>
+      <point x="146" y="784"/>
+      <point x="108" y="784" type="curve" smooth="yes"/>
+      <point x="71" y="784"/>
+      <point x="41" y="754"/>
+      <point x="41" y="717" type="curve" smooth="yes"/>
+      <point x="41" y="680"/>
+      <point x="71" y="650"/>
+      <point x="108" y="650" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="343" y="650"/>
+      <point x="373" y="680"/>
+      <point x="373" y="717" type="curve" smooth="yes"/>
+      <point x="373" y="754"/>
+      <point x="343" y="784"/>
+      <point x="305" y="784" type="curve" smooth="yes"/>
+      <point x="268" y="784"/>
+      <point x="238" y="754"/>
+      <point x="238" y="717" type="curve" smooth="yes"/>
+      <point x="238" y="680"/>
+      <point x="268" y="650"/>
+      <point x="305" y="650" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="207" y="717" type="move" name="_accent"/>
+    </contour>
+    <contour>
+      <point x="207" y="717" type="move" name="_above"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 07:35:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

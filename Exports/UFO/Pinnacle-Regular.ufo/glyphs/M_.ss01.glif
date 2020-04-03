@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss01" format="1">
+  <advance width="961"/>
+  <outline>
+    <contour>
+      <point x="140" y="511" type="line"/>
+      <point x="140" y="597"/>
+      <point x="209" y="666"/>
+      <point x="295" y="666" type="curve"/>
+      <point x="381" y="666"/>
+      <point x="451" y="597"/>
+      <point x="451" y="511" type="curve"/>
+      <point x="451" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="511" y="511" type="line"/>
+      <point x="511" y="630"/>
+      <point x="414" y="726"/>
+      <point x="295" y="726" type="curve"/>
+      <point x="177" y="726"/>
+      <point x="80" y="630"/>
+      <point x="80" y="511" type="curve"/>
+      <point x="80" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="597"/>
+      <point x="580" y="666"/>
+      <point x="666" y="666" type="curve"/>
+      <point x="752" y="666"/>
+      <point x="821" y="597"/>
+      <point x="821" y="511" type="curve"/>
+      <point x="821" y="0" type="line"/>
+      <point x="881" y="0" type="line"/>
+      <point x="881" y="511" type="line"/>
+      <point x="881" y="630"/>
+      <point x="785" y="726"/>
+      <point x="666" y="726" type="curve"/>
+      <point x="547" y="726"/>
+      <point x="451" y="630"/>
+      <point x="451" y="511" type="curve"/>
+      <point x="511" y="511" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 22:05:16 +0000</string>
+    </dict>
+  </lib>
+</glyph>

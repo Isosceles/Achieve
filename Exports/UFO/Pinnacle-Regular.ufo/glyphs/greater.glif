@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="435"/>
+  <unicode hex="003E"/>
+  <outline>
+    <component base="less" xOffset="435" xScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 01:31:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

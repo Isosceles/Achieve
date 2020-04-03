@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l" format="1">
+  <advance width="320"/>
+  <unicode hex="006C"/>
+  <outline>
+    <contour>
+      <point x="80" y="0" type="line"/>
+      <point x="240" y="0" type="line"/>
+      <point x="240" y="800" type="line"/>
+      <point x="80" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="400" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="160" y="969" type="move" name="accent"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 02:21:39 +0000</string>
+    </dict>
+  </lib>
+</glyph>

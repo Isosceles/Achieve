@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetright" format="1">
+  <advance width="536"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="479" y="310" type="line" smooth="yes"/>
+      <point x="493" y="324"/>
+      <point x="501" y="337"/>
+      <point x="503" y="350" type="curve" smooth="yes"/>
+      <point x="505" y="365"/>
+      <point x="499" y="381"/>
+      <point x="488" y="394" type="curve" smooth="yes"/>
+      <point x="293" y="622" type="line"/>
+      <point x="246" y="580" type="line"/>
+      <point x="440" y="353" type="line"/>
+      <point x="181" y="125" type="line"/>
+      <point x="220" y="83" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="310" type="line" smooth="yes"/>
+      <point x="327" y="324"/>
+      <point x="335" y="337"/>
+      <point x="337" y="350" type="curve" smooth="yes"/>
+      <point x="339" y="365"/>
+      <point x="333" y="381"/>
+      <point x="322" y="394" type="curve" smooth="yes"/>
+      <point x="127" y="622" type="line"/>
+      <point x="80" y="580" type="line"/>
+      <point x="274" y="353" type="line"/>
+      <point x="15" y="125" type="line"/>
+      <point x="54" y="83" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 07:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

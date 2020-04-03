@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yat-cy" format="1">
+  <advance width="719"/>
+  <unicode hex="0462"/>
+  <outline>
+    <contour>
+      <point x="403" y="0" type="line"/>
+      <point x="544" y="0"/>
+      <point x="659" y="114"/>
+      <point x="659" y="255" type="curve" smooth="yes"/>
+      <point x="659" y="396"/>
+      <point x="545" y="510"/>
+      <point x="404" y="510" type="curve"/>
+      <point x="205" y="510" type="line"/>
+      <point x="205" y="350" type="line"/>
+      <point x="403" y="350" type="line"/>
+      <point x="455" y="350"/>
+      <point x="498" y="307"/>
+      <point x="498" y="255" type="curve" smooth="yes"/>
+      <point x="498" y="203"/>
+      <point x="455" y="160"/>
+      <point x="403" y="160" type="curve"/>
+      <point x="281" y="160" type="line"/>
+      <point x="281" y="700" type="line"/>
+      <point x="121" y="700" type="line"/>
+      <point x="121" y="160" type="line" smooth="yes"/>
+      <point x="121" y="56"/>
+      <point x="177" y="0"/>
+      <point x="281" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="40" y="557" type="line"/>
+      <point x="360" y="557" type="line"/>
+      <point x="360" y="643" type="line"/>
+      <point x="40" y="643" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:43:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

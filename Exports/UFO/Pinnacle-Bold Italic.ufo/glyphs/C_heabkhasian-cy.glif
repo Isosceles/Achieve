@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cheabkhasian-cy" format="1">
+  <advance width="1030"/>
+  <unicode hex="04BC"/>
+  <outline>
+    <contour>
+      <point x="691" y="-24"/>
+      <point x="822" y="48"/>
+      <point x="902" y="161" type="curve"/>
+      <point x="771" y="244" type="line"/>
+      <point x="725" y="178"/>
+      <point x="649" y="136"/>
+      <point x="567" y="136" type="curve" smooth="yes"/>
+      <point x="461" y="136"/>
+      <point x="385" y="214"/>
+      <point x="385" y="316" type="curve" smooth="yes"/>
+      <point x="385" y="449"/>
+      <point x="504" y="566"/>
+      <point x="637" y="566" type="curve" smooth="yes"/>
+      <point x="737" y="566"/>
+      <point x="811" y="495"/>
+      <point x="819" y="399" type="curve" smooth="yes"/>
+      <point x="820" y="394"/>
+      <point x="820" y="388"/>
+      <point x="820" y="382" type="curve"/>
+      <point x="873" y="410" type="line"/>
+      <point x="174" y="410" type="line"/>
+      <point x="159" y="290" type="line"/>
+      <point x="909" y="290" type="line" smooth="yes"/>
+      <point x="967" y="290"/>
+      <point x="982" y="330"/>
+      <point x="982" y="404" type="curve" smooth="yes"/>
+      <point x="982" y="586"/>
+      <point x="838" y="726"/>
+      <point x="650" y="726" type="curve" smooth="yes"/>
+      <point x="425" y="726"/>
+      <point x="224" y="527"/>
+      <point x="224" y="302" type="curve" smooth="yes"/>
+      <point x="224" y="118"/>
+      <point x="363" y="-24"/>
+      <point x="554" y="-24" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="195" y="552" type="line"/>
+      <point x="75" y="552" type="line"/>
+      <point x="56" y="414" type="line" smooth="yes"/>
+      <point x="55" y="407"/>
+      <point x="55" y="401"/>
+      <point x="55" y="395" type="curve" smooth="yes"/>
+      <point x="55" y="334"/>
+      <point x="98" y="290"/>
+      <point x="161" y="290" type="curve"/>
+    </contour>
+    <contour>
+      <point x="534" y="-166" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="680" y="870" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="705" y="1050" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="607" y="351" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="555" y="-17" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 07:10:04 +0000</string>
+    </dict>
+  </lib>
+</glyph>

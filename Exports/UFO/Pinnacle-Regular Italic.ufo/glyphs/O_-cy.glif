@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O-cy" format="1">
+  <advance width="863"/>
+  <unicode hex="041E"/>
+  <outline>
+    <contour>
+      <point x="262" y="725"/>
+      <point x="63" y="523"/>
+      <point x="63" y="300" type="curve" smooth="yes"/>
+      <point x="63" y="117"/>
+      <point x="200" y="-25"/>
+      <point x="389" y="-25" type="curve" smooth="yes"/>
+      <point x="615" y="-25"/>
+      <point x="814" y="176"/>
+      <point x="814" y="400" type="curve" smooth="yes"/>
+      <point x="814" y="583"/>
+      <point x="677" y="725"/>
+      <point x="487" y="725" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="643" y="665"/>
+      <point x="754" y="550"/>
+      <point x="754" y="399" type="curve" smooth="yes"/>
+      <point x="754" y="206"/>
+      <point x="583" y="35"/>
+      <point x="390" y="35" type="curve" smooth="yes"/>
+      <point x="234" y="35"/>
+      <point x="123" y="150"/>
+      <point x="123" y="301" type="curve" smooth="yes"/>
+      <point x="123" y="494"/>
+      <point x="293" y="665"/>
+      <point x="486" y="665" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="369" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="515" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="547" y="1079" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="442" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="390" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:44:37 +0000</string>
+    </dict>
+  </lib>
+</glyph>

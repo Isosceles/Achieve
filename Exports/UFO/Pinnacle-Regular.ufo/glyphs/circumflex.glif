@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="420"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <component base="caron" yOffset="1382" yScale="-1"/>
+    <contour>
+      <point x="210" y="697" type="move" name="_accent"/>
+    </contour>
+    <contour>
+      <point x="210" y="697" type="move" name="_above"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 07:54:53 +0000</string>
+    </dict>
+  </lib>
+</glyph>

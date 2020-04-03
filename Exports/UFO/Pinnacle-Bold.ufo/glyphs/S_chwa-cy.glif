@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Schwa-cy" format="1">
+  <advance width="890"/>
+  <unicode hex="04D8"/>
+  <outline>
+    <contour>
+      <point x="642" y="-25"/>
+      <point x="810" y="143"/>
+      <point x="810" y="350" type="curve" smooth="yes"/>
+      <point x="810" y="557"/>
+      <point x="642" y="725"/>
+      <point x="435" y="725" type="curve" smooth="yes"/>
+      <point x="296" y="725"/>
+      <point x="174" y="651"/>
+      <point x="110" y="538" type="curve"/>
+      <point x="249" y="459" type="line"/>
+      <point x="287" y="525"/>
+      <point x="356" y="565"/>
+      <point x="435" y="565" type="curve" smooth="yes"/>
+      <point x="554" y="565"/>
+      <point x="650" y="469"/>
+      <point x="650" y="350" type="curve" smooth="yes"/>
+      <point x="650" y="231"/>
+      <point x="554" y="135"/>
+      <point x="435" y="135" type="curve" smooth="yes"/>
+      <point x="317" y="135"/>
+      <point x="220" y="232"/>
+      <point x="220" y="350" type="curve"/>
+      <point x="173" y="291" type="line"/>
+      <point x="764" y="291" type="line"/>
+      <point x="763" y="411" type="line"/>
+      <point x="122" y="411" type="line" smooth="yes"/>
+      <point x="82" y="411"/>
+      <point x="60" y="389"/>
+      <point x="60" y="350" type="curve" smooth="yes"/>
+      <point x="60" y="144"/>
+      <point x="229" y="-25"/>
+      <point x="435" y="-25" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="435" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="435" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="436" y="1079" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="435" y="350" type="move" name="slash"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 02:17:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron.ss02" format="1">
+  <advance width="673"/>
+  <outline>
+    <component base="R.ss02"/>
+    <component base="caroncomb" xOffset="59" yOffset="152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 15:10:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>

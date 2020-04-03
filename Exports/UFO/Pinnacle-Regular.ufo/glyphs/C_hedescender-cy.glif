@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Chedescender-cy" format="1">
+  <advance width="774"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <contour>
+      <point x="654" y="-100" type="line"/>
+      <point x="714" y="-100" type="line"/>
+      <point x="714" y="0" type="line" smooth="yes"/>
+      <point x="714" y="39"/>
+      <point x="693" y="60"/>
+      <point x="654" y="60" type="curve"/>
+    </contour>
+    <component base="Shha-cy" xOffset="734" yOffset="700" xScale="-1" yScale="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:43:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

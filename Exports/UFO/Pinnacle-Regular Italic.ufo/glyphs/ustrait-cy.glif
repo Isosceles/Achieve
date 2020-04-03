@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ustrait-cy" format="1">
+  <advance width="633"/>
+  <unicode hex="04AF"/>
+  <outline>
+    <contour>
+      <point x="275" y="-180" type="line"/>
+      <point x="305" y="31" type="line"/>
+      <point x="245" y="31" type="line"/>
+      <point x="215" y="-180" type="line"/>
+    </contour>
+    <component base="v"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 09:03:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

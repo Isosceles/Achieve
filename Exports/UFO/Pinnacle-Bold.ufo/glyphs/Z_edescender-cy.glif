@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zedescender-cy" format="1">
+  <advance width="774"/>
+  <unicode hex="0498"/>
+  <outline>
+    <component base="Ze-cy"/>
+    <component base="cedillacomb" xOffset="300" yOffset="8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:43:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

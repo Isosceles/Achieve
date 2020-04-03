@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="notequal" format="1">
+  <advance width="620"/>
+  <unicode hex="2260"/>
+  <outline>
+    <contour>
+      <point x="128" y="156" type="line"/>
+      <point x="200" y="114" type="line"/>
+      <point x="450" y="548" type="line"/>
+      <point x="378" y="590" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 01:31:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

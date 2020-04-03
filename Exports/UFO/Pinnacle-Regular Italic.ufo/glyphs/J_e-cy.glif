@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Je-cy" format="1">
+  <advance width="595"/>
+  <unicode hex="0408"/>
+  <outline>
+    <contour>
+      <point x="511" y="700" type="line"/>
+      <point x="458" y="322" type="line"/>
+      <point x="435" y="161"/>
+      <point x="321" y="60"/>
+      <point x="160" y="60" type="curve"/>
+      <point x="6" y="60" type="line"/>
+      <point x="-2" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="349" y="0"/>
+      <point x="490" y="124"/>
+      <point x="518" y="318" type="curve"/>
+      <point x="571" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="564" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="589" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="491" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="439" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:51:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

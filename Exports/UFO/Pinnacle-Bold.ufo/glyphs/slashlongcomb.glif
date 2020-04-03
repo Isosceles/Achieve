@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongcomb" format="1">
+  <advance width="761"/>
+  <unicode hex="0338"/>
+  <outline>
+    <contour>
+      <point x="88" y="-2" type="line"/>
+      <point x="733" y="642" type="line"/>
+      <point x="673" y="702" type="line"/>
+      <point x="28" y="58" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="350" type="move" name="_slash"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-03-31 07:44:00 +0000</string>
+    </dict>
+  </lib>
+</glyph>

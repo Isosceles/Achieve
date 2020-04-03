@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Pemiddlehook-cy" format="1">
+  <advance width="993"/>
+  <unicode hex="04A6"/>
+  <outline>
+    <contour>
+      <point x="198" y="0" type="line"/>
+      <point x="272" y="535" type="line" smooth="yes"/>
+      <point x="272" y="538"/>
+      <point x="275" y="540"/>
+      <point x="278" y="540" type="curve" smooth="yes"/>
+      <point x="464" y="540" type="line" smooth="yes"/>
+      <point x="467" y="540"/>
+      <point x="468" y="538"/>
+      <point x="468" y="535" type="curve"/>
+      <point x="393" y="0" type="line"/>
+      <point x="553" y="0" type="line"/>
+      <point x="628" y="535" type="line" smooth="yes"/>
+      <point x="629" y="545"/>
+      <point x="630" y="554"/>
+      <point x="630" y="563" type="curve" smooth="yes"/>
+      <point x="630" y="646"/>
+      <point x="574" y="700"/>
+      <point x="486" y="700" type="curve" smooth="yes"/>
+      <point x="297" y="700" type="line" smooth="yes"/>
+      <point x="199" y="700"/>
+      <point x="127" y="637"/>
+      <point x="114" y="539" type="curve" smooth="yes"/>
+      <point x="38" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="794" y="0"/>
+      <point x="928" y="130"/>
+      <point x="928" y="280" type="curve" smooth="yes"/>
+      <point x="928" y="404"/>
+      <point x="835" y="498"/>
+      <point x="707" y="498" type="curve" smooth="yes"/>
+      <point x="571" y="498"/>
+      <point x="448" y="389"/>
+      <point x="428" y="251" type="curve"/>
+      <point x="587" y="247" type="line"/>
+      <point x="595" y="297"/>
+      <point x="642" y="338"/>
+      <point x="694" y="338" type="curve" smooth="yes"/>
+      <point x="737" y="338"/>
+      <point x="767" y="308"/>
+      <point x="767" y="267" type="curve" smooth="yes"/>
+      <point x="767" y="209"/>
+      <point x="715" y="160"/>
+      <point x="661" y="160" type="curve"/>
+      <point x="643" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="368" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="468" y="542" type="move" name="bar"/>
+    </contour>
+    <contour>
+      <point x="514" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="539" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="441" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="389" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 07:00:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

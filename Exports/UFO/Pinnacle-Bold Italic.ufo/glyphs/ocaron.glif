@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocaron" format="1">
+  <advance width="741"/>
+  <unicode hex="01D2"/>
+  <outline>
+    <component base="o"/>
+    <component base="caroncomb" xOffset="167" yOffset="42"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 09:04:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

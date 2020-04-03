@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a-cy" format="1">
+  <advance width="704"/>
+  <unicode hex="0430"/>
+  <outline>
+    <component base="a"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 03:02:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

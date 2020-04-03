@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OE" format="1">
+  <advance width="1215"/>
+  <unicode hex="0152"/>
+  <outline>
+    <contour>
+      <point x="643" y="-25"/>
+      <point x="811" y="143"/>
+      <point x="811" y="350" type="curve"/>
+      <point x="811" y="557"/>
+      <point x="643" y="725"/>
+      <point x="435" y="725" type="curve"/>
+      <point x="228" y="725"/>
+      <point x="60" y="557"/>
+      <point x="60" y="350" type="curve"/>
+      <point x="60" y="143"/>
+      <point x="228" y="-25"/>
+      <point x="435" y="-25" type="curve"/>
+    </contour>
+    <contour>
+      <point x="317" y="135"/>
+      <point x="220" y="231"/>
+      <point x="220" y="350" type="curve"/>
+      <point x="220" y="469"/>
+      <point x="317" y="565"/>
+      <point x="435" y="565" type="curve"/>
+      <point x="554" y="565"/>
+      <point x="651" y="469"/>
+      <point x="651" y="350" type="curve"/>
+      <point x="651" y="231"/>
+      <point x="554" y="135"/>
+      <point x="435" y="135" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1135" y="0" type="line"/>
+      <point x="1135" y="160" type="line"/>
+      <point x="590" y="160" type="line"/>
+      <point x="590" y="56"/>
+      <point x="646" y="0"/>
+      <point x="750" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="973" y="270" type="line"/>
+      <point x="973" y="430" type="line"/>
+      <point x="730" y="430" type="line"/>
+      <point x="730" y="270" type="line"/>
+    </contour>
+    <contour>
+      <point x="1135" y="540" type="line"/>
+      <point x="1135" y="700" type="line"/>
+      <point x="750" y="700" type="line" smooth="yes"/>
+      <point x="646" y="700"/>
+      <point x="590" y="644"/>
+      <point x="590" y="540" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 22:06:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

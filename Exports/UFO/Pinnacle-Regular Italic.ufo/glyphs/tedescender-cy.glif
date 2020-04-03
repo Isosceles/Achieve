@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tedescender-cy" format="1">
+  <advance width="700"/>
+  <unicode hex="04AD"/>
+  <outline>
+    <contour>
+      <point x="384" y="-100" type="line"/>
+      <point x="398" y="-2" type="line" smooth="yes"/>
+      <point x="403" y="37"/>
+      <point x="384" y="60"/>
+      <point x="345" y="60" type="curve"/>
+      <point x="324" y="-100" type="line"/>
+    </contour>
+    <component base="te-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 08:24:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

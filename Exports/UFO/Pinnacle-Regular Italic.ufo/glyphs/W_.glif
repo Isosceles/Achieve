@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="961"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="136" y="700" type="line"/>
+      <point x="65" y="191" type="line"/>
+      <point x="48" y="72"/>
+      <point x="133" y="-26"/>
+      <point x="253" y="-26" type="curve"/>
+      <point x="370" y="-26"/>
+      <point x="478" y="68"/>
+      <point x="495" y="187" type="curve"/>
+      <point x="567" y="700" type="line"/>
+      <point x="507" y="700" type="line"/>
+      <point x="436" y="191" type="line"/>
+      <point x="424" y="105"/>
+      <point x="342" y="34"/>
+      <point x="254" y="34" type="curve"/>
+      <point x="170" y="34"/>
+      <point x="112" y="101"/>
+      <point x="124" y="187" type="curve"/>
+      <point x="196" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="436" y="191" type="line"/>
+      <point x="419" y="72"/>
+      <point x="503" y="-26"/>
+      <point x="624" y="-26" type="curve"/>
+      <point x="741" y="-26"/>
+      <point x="848" y="68"/>
+      <point x="865" y="187" type="curve"/>
+      <point x="937" y="700" type="line"/>
+      <point x="877" y="700" type="line"/>
+      <point x="806" y="191" type="line"/>
+      <point x="794" y="105"/>
+      <point x="713" y="34"/>
+      <point x="625" y="34" type="curve"/>
+      <point x="541" y="34"/>
+      <point x="483" y="101"/>
+      <point x="495" y="187" type="curve"/>
+    </contour>
+    <contour>
+      <point x="561" y="869" type="move" name="accent"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 07:24:42 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Agrave.ss01" format="1">
+  <advance width="828"/>
+  <outline>
+    <component base="A.ss01"/>
+    <component base="gravecomb" xOffset="320" yOffset="199"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 07:24:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>

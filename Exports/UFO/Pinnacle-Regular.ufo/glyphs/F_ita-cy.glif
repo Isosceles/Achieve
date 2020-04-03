@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Fita-cy" format="1">
+  <advance width="863"/>
+  <unicode hex="0472"/>
+  <outline>
+    <contour>
+      <point x="680" y="255"/>
+      <point x="744" y="293"/>
+      <point x="799" y="358" type="curve"/>
+      <point x="753" y="396" type="line"/>
+      <point x="707" y="342"/>
+      <point x="664" y="316"/>
+      <point x="598" y="316" type="curve" smooth="yes"/>
+      <point x="553" y="316"/>
+      <point x="494" y="345"/>
+      <point x="450" y="366" type="curve" smooth="yes"/>
+      <point x="397" y="392"/>
+      <point x="334" y="422"/>
+      <point x="270" y="422" type="curve" smooth="yes"/>
+      <point x="196" y="422"/>
+      <point x="128" y="386"/>
+      <point x="74" y="320" type="curve"/>
+      <point x="120" y="282" type="line"/>
+      <point x="164" y="335"/>
+      <point x="214" y="362"/>
+      <point x="270" y="362" type="curve" smooth="yes"/>
+      <point x="320" y="362"/>
+      <point x="371" y="338"/>
+      <point x="424" y="312" type="curve" smooth="yes"/>
+      <point x="478" y="287"/>
+      <point x="542" y="255"/>
+      <point x="607" y="255" type="curve" smooth="yes"/>
+    </contour>
+    <component base="O-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:43:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

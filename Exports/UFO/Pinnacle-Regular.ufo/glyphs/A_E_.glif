@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="1030"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="104" y="0" type="line"/>
+      <point x="293" y="587" type="line" smooth="yes"/>
+      <point x="305" y="618"/>
+      <point x="337" y="640"/>
+      <point x="370" y="640" type="curve" smooth="yes"/>
+      <point x="950" y="640" type="line"/>
+      <point x="950" y="700" type="line"/>
+      <point x="370" y="700" type="line" smooth="yes"/>
+      <point x="309" y="700"/>
+      <point x="257" y="664"/>
+      <point x="237" y="607" type="curve" smooth="yes"/>
+      <point x="40" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="505" y="320" type="line"/>
+      <point x="828" y="320" type="line"/>
+      <point x="828" y="380" type="line"/>
+      <point x="505" y="380" type="line"/>
+      <point x="505" y="655" type="line"/>
+      <point x="445" y="655" type="line"/>
+      <point x="445" y="238" type="line"/>
+      <point x="140" y="238" type="line"/>
+      <point x="140" y="185" type="line"/>
+      <point x="445" y="185" type="line"/>
+      <point x="445" y="60" type="line" smooth="yes"/>
+      <point x="445" y="21"/>
+      <point x="466" y="0"/>
+      <point x="505" y="0" type="curve" smooth="yes"/>
+      <point x="950" y="0" type="line"/>
+      <point x="950" y="60" type="line"/>
+      <point x="505" y="60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 00:08:10 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

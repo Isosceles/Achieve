@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tetse-cy" format="1">
+  <advance width="999"/>
+  <unicode hex="04B5"/>
+  <outline>
+    <contour>
+      <point x="939" y="-102" type="line"/>
+      <point x="939" y="38" type="line" smooth="yes"/>
+      <point x="939" y="109"/>
+      <point x="888" y="160"/>
+      <point x="819" y="160" type="curve"/>
+      <point x="819" y="-102" type="line"/>
+    </contour>
+    <contour>
+      <point x="819" y="0" type="line"/>
+      <point x="819" y="600" type="line"/>
+      <point x="659" y="600" type="line"/>
+      <point x="659" y="122" type="line"/>
+      <point x="697" y="160" type="line"/>
+      <point x="351" y="160" type="line"/>
+      <point x="377" y="160"/>
+      <point x="389" y="148"/>
+      <point x="389" y="122" type="curve"/>
+      <point x="389" y="600" type="line"/>
+      <point x="229" y="600" type="line"/>
+      <point x="229" y="163" type="line" smooth="yes"/>
+      <point x="229" y="65"/>
+      <point x="294" y="0"/>
+      <point x="392" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="580" y="450" type="line"/>
+      <point x="580" y="600" type="line"/>
+      <point x="40" y="600" type="line"/>
+      <point x="40" y="450" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 06:22:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

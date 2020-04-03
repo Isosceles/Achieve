@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E.ss01" format="1">
+  <advance width="745"/>
+  <outline>
+    <contour>
+      <point x="106" y="60" type="line"/>
+      <point x="142" y="317" type="line"/>
+      <point x="667" y="317" type="line"/>
+      <point x="676" y="377" type="line"/>
+      <point x="149" y="377" type="line" smooth="yes"/>
+      <point x="110" y="377"/>
+      <point x="88" y="358"/>
+      <point x="83" y="319" type="curve" smooth="yes"/>
+      <point x="47" y="62" type="line" smooth="yes"/>
+      <point x="41" y="23"/>
+      <point x="61" y="0"/>
+      <point x="100" y="0" type="curve" smooth="yes"/>
+      <point x="623" y="0" type="line"/>
+      <point x="631" y="60" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="700" type="line"/>
+      <point x="138" y="640" type="line"/>
+      <point x="713" y="640" type="line"/>
+      <point x="721" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="331" y="8" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="453" y="869" type="move" name="accent"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 07:25:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>E</string>
+    </dict>
+  </lib>
+</glyph>

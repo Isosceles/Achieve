@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Dze-cy" format="1">
+  <advance width="748"/>
+  <unicode hex="0405"/>
+  <outline>
+    <contour>
+      <point x="325" y="700" type="line" smooth="yes"/>
+      <point x="211" y="700"/>
+      <point x="108" y="602"/>
+      <point x="108" y="486" type="curve" smooth="yes"/>
+      <point x="108" y="393"/>
+      <point x="178" y="320"/>
+      <point x="274" y="320" type="curve" smooth="yes"/>
+      <point x="502" y="320" type="line" smooth="yes"/>
+      <point x="568" y="320"/>
+      <point x="614" y="273"/>
+      <point x="614" y="211" type="curve" smooth="yes"/>
+      <point x="614" y="130"/>
+      <point x="541" y="60"/>
+      <point x="463" y="60" type="curve" smooth="yes"/>
+      <point x="60" y="60" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="458" y="0" type="line" smooth="yes"/>
+      <point x="572" y="0"/>
+      <point x="674" y="98"/>
+      <point x="674" y="214" type="curve" smooth="yes"/>
+      <point x="674" y="307"/>
+      <point x="604" y="380"/>
+      <point x="508" y="380" type="curve" smooth="yes"/>
+      <point x="280" y="380" type="line" smooth="yes"/>
+      <point x="214" y="380"/>
+      <point x="168" y="427"/>
+      <point x="168" y="489" type="curve" smooth="yes"/>
+      <point x="168" y="570"/>
+      <point x="241" y="640"/>
+      <point x="319" y="640" type="curve" smooth="yes"/>
+      <point x="696" y="640" type="line"/>
+      <point x="704" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="318" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="464" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="489" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="391" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="339" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:50:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

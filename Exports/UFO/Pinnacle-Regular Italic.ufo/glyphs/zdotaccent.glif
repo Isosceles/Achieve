@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="1">
+  <advance width="701"/>
+  <unicode hex="017C"/>
+  <outline>
+    <component base="z"/>
+    <component base="dotaccentcomb" xOffset="346" yOffset="77"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 09:09:40 +0000</string>
+    </dict>
+  </lib>
+</glyph>

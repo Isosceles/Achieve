@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ndotaccent" format="1">
+  <advance width="817"/>
+  <unicode hex="1E44"/>
+  <outline>
+    <component base="N"/>
+    <component base="dotaccentcomb" xOffset="329" yOffset="187"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-10 12:01:02 +0000</string>
+    </dict>
+  </lib>
+</glyph>

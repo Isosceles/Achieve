@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zhedescender-cy" format="1">
+  <advance width="1022"/>
+  <unicode hex="0496"/>
+  <outline>
+    <contour>
+      <point x="763" y="162" type="line"/>
+      <point x="740" y="0" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="824" y="38" type="line"/>
+      <point x="806" y="-100" type="line"/>
+      <point x="926" y="-100" type="line"/>
+      <point x="945" y="38" type="line" smooth="yes"/>
+      <point x="946" y="45"/>
+      <point x="946" y="51"/>
+      <point x="946" y="57" type="curve" smooth="yes"/>
+      <point x="946" y="118"/>
+      <point x="903" y="162"/>
+      <point x="840" y="162" type="curve" smooth="yes"/>
+    </contour>
+    <component base="Zhe-cy"/>
+    <contour>
+      <point x="417" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="563" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="588" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="490" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="438" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:53:20 +0000</string>
+    </dict>
+  </lib>
+</glyph>

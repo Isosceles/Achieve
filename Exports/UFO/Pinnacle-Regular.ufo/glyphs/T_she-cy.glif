@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tshe-cy" format="1">
+  <advance width="974"/>
+  <unicode hex="040B"/>
+  <outline>
+    <contour>
+      <point x="660" y="640" type="line"/>
+      <point x="660" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="640" type="line"/>
+    </contour>
+    <component base="Shha-cy" xOffset="240"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:43:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

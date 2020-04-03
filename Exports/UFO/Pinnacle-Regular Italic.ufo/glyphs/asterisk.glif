@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk" format="1">
+  <advance width="405"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="354" y="463" type="line"/>
+      <point x="395" y="511" type="line"/>
+      <point x="271" y="611" type="line"/>
+      <point x="229" y="563" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="577" type="line"/>
+      <point x="280" y="595" type="line"/>
+      <point x="250" y="757" type="line"/>
+      <point x="191" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="76" y="557" type="line"/>
+      <point x="246" y="557" type="line"/>
+      <point x="255" y="617" type="line"/>
+      <point x="85" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="562" type="line"/>
+      <point x="416" y="662" type="line"/>
+      <point x="387" y="710" type="line"/>
+      <point x="236" y="610" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="416" type="line"/>
+      <point x="278" y="578" type="line"/>
+      <point x="222" y="596" type="line"/>
+      <point x="148" y="435" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-13 07:39:32 +0000</string>
+    </dict>
+  </lib>
+</glyph>

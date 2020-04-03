@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tse-cy" format="1">
+  <advance width="785"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="623" y="0" type="line"/>
+      <point x="721" y="700" type="line"/>
+      <point x="661" y="700" type="line"/>
+      <point x="567" y="33" type="line"/>
+      <point x="598" y="60" type="line"/>
+      <point x="136" y="60" type="line" smooth="yes"/>
+      <point x="119" y="60"/>
+      <point x="108" y="72"/>
+      <point x="110" y="89" type="curve" smooth="yes"/>
+      <point x="196" y="700" type="line"/>
+      <point x="136" y="700" type="line"/>
+      <point x="51" y="94" type="line" smooth="yes"/>
+      <point x="50" y="89"/>
+      <point x="50" y="85"/>
+      <point x="50" y="81" type="curve" smooth="yes"/>
+      <point x="50" y="34"/>
+      <point x="84" y="0"/>
+      <point x="132" y="0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="669" y="-100" type="line"/>
+      <point x="683" y="-2" type="line" smooth="yes"/>
+      <point x="684" y="2"/>
+      <point x="684" y="6"/>
+      <point x="684" y="10" type="curve" smooth="yes"/>
+      <point x="684" y="42"/>
+      <point x="665" y="60"/>
+      <point x="630" y="60" type="curve"/>
+      <point x="609" y="-100" type="line"/>
+    </contour>
+    <contour>
+      <point x="308" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="454" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="479" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="381" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="329" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:48:47 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresisgrave" format="1">
+  <advance width="745"/>
+  <unicode hex="01DB"/>
+  <outline>
+    <component base="U"/>
+    <component base="dieresiscomb" xOffset="166" yOffset="152"/>
+    <component base="gravecomb" xOffset="198" yOffset="409"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-11 16:48:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

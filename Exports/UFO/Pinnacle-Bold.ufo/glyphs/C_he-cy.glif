@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Che-cy" format="1">
+  <advance width="734"/>
+  <unicode hex="0427"/>
+  <outline>
+    <contour>
+      <point x="494" y="700" type="line"/>
+      <point x="494" y="0" type="line"/>
+      <point x="654" y="0" type="line"/>
+      <point x="654" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="700" type="line"/>
+      <point x="80" y="529" type="line" smooth="yes"/>
+      <point x="80" y="360"/>
+      <point x="220" y="219"/>
+      <point x="390" y="219" type="curve" smooth="yes"/>
+      <point x="494" y="219"/>
+      <point x="585" y="271"/>
+      <point x="642" y="350" type="curve"/>
+      <point x="512" y="444" type="line"/>
+      <point x="482" y="402"/>
+      <point x="438" y="379"/>
+      <point x="390" y="379" type="curve" smooth="yes"/>
+      <point x="309" y="379"/>
+      <point x="240" y="448"/>
+      <point x="240" y="529" type="curve" smooth="yes"/>
+      <point x="240" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="371" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="371" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="371" y="1079" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="376" y="8" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-12 20:41:13 +0000</string>
+    </dict>
+  </lib>
+</glyph>

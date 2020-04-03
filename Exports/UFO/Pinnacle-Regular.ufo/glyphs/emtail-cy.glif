@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emtail-cy" format="1">
+  <advance width="927"/>
+  <unicode hex="04CE"/>
+  <outline>
+    <component base="m"/>
+    <component base="tail-cy" xOffset="659"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:30:28 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tail-cy</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

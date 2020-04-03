@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I-cy" format="1">
+  <advance width="320"/>
+  <unicode hex="0406"/>
+  <outline>
+    <contour>
+      <point x="136" y="700" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="296" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="-167" type="move" name="below"/>
+    </contour>
+    <contour>
+      <point x="238" y="869" type="move" name="accent"/>
+    </contour>
+    <contour>
+      <point x="263" y="1049" type="move" name="above"/>
+    </contour>
+    <contour>
+      <point x="165" y="350" type="move" name="slash"/>
+    </contour>
+    <contour>
+      <point x="113" y="-18" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-04-14 06:50:57 +0000</string>
+    </dict>
+  </lib>
+</glyph>
