@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Shhadescender-cy" format="1">
-  <advance width="834"/>
-  <unicode hex="0526"/>
-  <outline>
-    <contour>
-      <point x="774" y="-100" type="line"/>
-      <point x="774" y="40" type="line" smooth="yes"/>
-      <point x="774" y="111"/>
-      <point x="723" y="162"/>
-      <point x="654" y="162" type="curve"/>
-      <point x="654" y="-100" type="line"/>
-    </contour>
-    <component base="Shha-cy"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Shhadescender-cy" format="2">
+	<advance width="834"/>
+	<unicode hex="0526"/>
+	<outline>
+		<contour>
+			<point x="654" y="-100" type="line"/>
+			<point x="774" y="-100" type="line"/>
+			<point x="774" y="40" type="line" smooth="yes"/>
+			<point x="774" y="111"/>
+			<point x="723" y="162"/>
+			<point x="654" y="162" type="curve"/>
+		</contour>
+		<component base="Shha-cy"/>
+	</outline>
 </glyph>

@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Reversedze-cy" format="1">
-  <advance width="801"/>
-  <unicode hex="0510"/>
-  <outline>
-    <component base="Ze-cy" xOffset="801" xScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Reversedze-cy" format="2">
+	<advance width="801"/>
+	<unicode hex="0510"/>
+	<outline>
+		<component base="Ze-cy" xScale="-1" xOffset="801"/>
+	</outline>
 </glyph>

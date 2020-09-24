@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Udieresiscaron" format="1">
-  <advance width="745"/>
-  <unicode hex="01D9"/>
-  <outline>
-    <component base="U"/>
-    <component base="dieresiscomb" xOffset="203" yOffset="189"/>
-    <component base="caroncomb" xOffset="163" yOffset="362"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 16:48:58 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Udieresiscaron" format="2">
+	<advance width="745"/>
+	<unicode hex="01D9"/>
+	<outline>
+		<component base="U"/>
+		<component base="dieresiscomb" xOffset="203" yOffset="189"/>
+		<component base="caroncomb" xOffset="163" yOffset="362"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>anchor</key>
+					<string>above</string>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>caroncomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

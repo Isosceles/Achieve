@@ -1,43 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sterling" format="1">
-  <advance width="630"/>
-  <unicode hex="00A3"/>
-  <outline>
-    <contour>
-      <point x="206" y="30"/>
-      <point x="291" y="116"/>
-      <point x="292" y="222" type="curve" smooth="yes"/>
-      <point x="293" y="386" type="line" smooth="yes"/>
-      <point x="294" y="493"/>
-      <point x="380" y="580"/>
-      <point x="488" y="580" type="curve"/>
-      <point x="488" y="700" type="line"/>
-      <point x="314" y="700"/>
-      <point x="174" y="560"/>
-      <point x="173" y="386" type="curve" smooth="yes"/>
-      <point x="172" y="222" type="line" smooth="yes"/>
-      <point x="172" y="182"/>
-      <point x="140" y="150"/>
-      <point x="100" y="150" type="curve"/>
-      <point x="100" y="30" type="line"/>
-    </contour>
-    <contour>
-      <point x="530" y="30" type="line"/>
-      <point x="530" y="150" type="line"/>
-      <point x="100" y="150" type="line"/>
-      <point x="100" y="30" type="line"/>
-    </contour>
-    <contour>
-      <point x="488" y="305" type="line"/>
-      <point x="488" y="390" type="line"/>
-      <point x="100" y="390" type="line"/>
-      <point x="100" y="305" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:31:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sterling" format="2">
+	<advance width="700"/>
+	<unicode hex="00A3"/>
+	<outline>
+		<contour>
+			<point x="135" y="30" type="line"/>
+			<point x="241" y="30"/>
+			<point x="326" y="116"/>
+			<point x="327" y="222" type="curve" smooth="yes"/>
+			<point x="328" y="386" type="line" smooth="yes"/>
+			<point x="329" y="493"/>
+			<point x="415" y="580"/>
+			<point x="523" y="580" type="curve"/>
+			<point x="523" y="700" type="line"/>
+			<point x="349" y="700"/>
+			<point x="209" y="560"/>
+			<point x="208" y="386" type="curve" smooth="yes"/>
+			<point x="207" y="222" type="line" smooth="yes"/>
+			<point x="207" y="182"/>
+			<point x="175" y="150"/>
+			<point x="135" y="150" type="curve"/>
+		</contour>
+		<contour>
+			<point x="135" y="30" type="line"/>
+			<point x="565" y="30" type="line"/>
+			<point x="565" y="150" type="line"/>
+			<point x="135" y="150" type="line"/>
+		</contour>
+		<contour>
+			<point x="135" y="305" type="line"/>
+			<point x="523" y="305" type="line"/>
+			<point x="523" y="390" type="line"/>
+			<point x="135" y="390" type="line"/>
+		</contour>
+	</outline>
 </glyph>

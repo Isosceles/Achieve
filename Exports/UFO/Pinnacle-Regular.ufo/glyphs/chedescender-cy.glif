@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="chedescender-cy" format="1">
-  <advance width="707"/>
-  <unicode hex="04B7"/>
-  <outline>
-    <contour>
-      <point x="647" y="-100" type="line"/>
-      <point x="647" y="0" type="line" smooth="yes"/>
-      <point x="647" y="39"/>
-      <point x="626" y="60"/>
-      <point x="587" y="60" type="curve"/>
-      <point x="587" y="-100" type="line"/>
-    </contour>
-    <component base="che-cy"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-13 06:29:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="chedescender-cy" format="2">
+	<advance width="707"/>
+	<unicode hex="04B7"/>
+	<outline>
+		<contour>
+			<point x="587" y="-100" type="line"/>
+			<point x="647" y="-100" type="line"/>
+			<point x="647" y="0" type="line" smooth="yes"/>
+			<point x="647" y="39"/>
+			<point x="626" y="60"/>
+			<point x="587" y="60" type="curve"/>
+		</contour>
+		<component base="che-cy"/>
+	</outline>
 </glyph>

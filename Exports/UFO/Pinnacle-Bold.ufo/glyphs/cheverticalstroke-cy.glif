@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cheverticalstroke-cy" format="1">
-  <advance width="700"/>
-  <unicode hex="04B9"/>
-  <outline>
-    <contour>
-      <point x="394" y="80" type="line"/>
-      <point x="394" y="530" type="line"/>
-      <point x="309" y="530" type="line"/>
-      <point x="309" y="80" type="line"/>
-    </contour>
-    <component base="che-cy"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-13 06:29:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="cheverticalstroke-cy" format="2">
+	<advance width="700"/>
+	<unicode hex="04B9"/>
+	<outline>
+		<contour>
+			<point x="309" y="80" type="line"/>
+			<point x="394" y="80" type="line"/>
+			<point x="394" y="530" type="line"/>
+			<point x="309" y="530" type="line"/>
+		</contour>
+		<component base="che-cy"/>
+	</outline>
 </glyph>

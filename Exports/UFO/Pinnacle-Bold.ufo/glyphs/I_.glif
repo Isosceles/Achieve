@@ -1,31 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="I" format="1">
-  <advance width="320"/>
-  <unicode hex="0049"/>
-  <outline>
-    <contour>
-      <point x="80" y="700" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="240" y="0" type="line"/>
-      <point x="240" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="160" y="-167" type="move" name="below"/>
-    </contour>
-    <contour>
-      <point x="160" y="869" type="move" name="accent"/>
-    </contour>
-    <contour>
-      <point x="160" y="1079" type="move" name="above"/>
-    </contour>
-    <contour>
-      <point x="152" y="8" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 22:01:30 +0000</string>
-    </dict>
-  </lib>
+<glyph name="I" format="2">
+	<advance width="300"/>
+	<unicode hex="0049"/>
+	<anchor x="150" y="-167" name="below"/>
+	<anchor x="150" y="869" name="accent"/>
+	<anchor x="150" y="1079" name="above"/>
+	<anchor x="142" y="8" name="bottom"/>
+	<outline>
+		<contour>
+			<point x="70" y="0" type="line"/>
+			<point x="230" y="0" type="line"/>
+			<point x="230" y="700" type="line"/>
+			<point x="70" y="700" type="line"/>
+		</contour>
+	</outline>
 </glyph>

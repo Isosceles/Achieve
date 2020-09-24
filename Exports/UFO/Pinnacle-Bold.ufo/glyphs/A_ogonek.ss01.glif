@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aogonek.ss01" format="1">
-  <advance width="828"/>
-  <outline>
-    <component base="A.ss01"/>
-    <component base="ogonekcomb" xOffset="574" yOffset="8"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 16:19:33 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>ogonekcomb</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="Aogonek.ss01" format="2">
+	<advance width="800"/>
+	<outline>
+		<component base="A.ss01"/>
+		<component base="ogonekcomb" xOffset="560" yOffset="8"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>ogonekcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

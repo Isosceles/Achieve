@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
@@ -7,13 +7,32 @@
 	<key>capHeight</key>
 	<integer>700</integer>
 	<key>copyright</key>
-	<string>(C) 2017 Lauren Herda, All Rights Reserved</string>
+	<string>(C) 2020 Lauren Herda, All Rights Reserved</string>
 	<key>descender</key>
 	<integer>-230</integer>
 	<key>familyName</key>
 	<string>Pinnacle</string>
+	<key>guidelines</key>
+	<array>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>-25</integer>
+			<key>y</key>
+			<integer>391</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>x</key>
+			<integer>133</integer>
+			<key>y</key>
+			<integer>711</integer>
+		</dict>
+	</array>
 	<key>openTypeHeadCreated</key>
-	<string>2014/12/04 02:20:36</string>
+	<string>2020/09/24 05:43:52</string>
 	<key>openTypeNameDesigner</key>
 	<string>Lauren Herda</string>
 	<key>openTypeNameDesignerURL</key>
@@ -21,9 +40,7 @@
 	<key>openTypeNameManufacturer</key>
 	<string>Isosceles</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>isoscel.es</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Pinnacle</string>
+	<string>isosceles.design</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Light</string>
 	<key>openTypeOS2WeightClass</key>
@@ -67,9 +84,9 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>950</integer>
+	<integer>0</integer>
 	<key>xHeight</key>
 	<integer>600</integer>
 </dict>

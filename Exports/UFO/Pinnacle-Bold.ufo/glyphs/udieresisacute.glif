@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="udieresisacute" format="1">
-  <advance width="732"/>
-  <unicode hex="01D8"/>
-  <outline>
-    <component base="u"/>
-    <component base="dieresiscomb" xOffset="159" yOffset="42"/>
-    <component base="acutecomb" xOffset="263" yOffset="299"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 16:48:58 +0000</string>
-    </dict>
-  </lib>
+<glyph name="udieresisacute" format="2">
+	<advance width="732"/>
+	<unicode hex="01D8"/>
+	<outline>
+		<component base="u"/>
+		<component base="dieresiscomb" xOffset="159" yOffset="42"/>
+		<component base="acutecomb" xOffset="263" yOffset="299"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>anchor</key>
+					<string>above</string>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

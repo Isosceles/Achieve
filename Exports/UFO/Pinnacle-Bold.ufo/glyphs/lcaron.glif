@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lcaron" format="1">
-  <advance width="320"/>
-  <unicode hex="013E"/>
-  <outline>
-    <component base="l"/>
-    <component base="caron" xOffset="-50" yOffset="252"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:56:37 +0000</string>
-    </dict>
-  </lib>
+<glyph name="lcaron" format="2">
+	<advance width="440"/>
+	<unicode hex="013E"/>
+	<outline>
+		<component base="l"/>
+		<component base="acutecomb" xOffset="242" yOffset="55"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>l</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>anchor</key>
+					<string>accentside</string>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>acutecomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

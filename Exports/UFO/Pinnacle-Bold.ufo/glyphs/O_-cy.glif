@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="O-cy" format="1">
-  <advance width="863"/>
-  <unicode hex="041E"/>
-  <outline>
-    <component base="O"/>
-    <contour>
-      <point x="431" y="-167" type="move" name="below"/>
-    </contour>
-    <contour>
-      <point x="431" y="869" type="move" name="accent"/>
-    </contour>
-    <contour>
-      <point x="432" y="1079" type="move" name="above"/>
-    </contour>
-    <contour>
-      <point x="431" y="350" type="move" name="slash"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 15:15:47 +0000</string>
-    </dict>
-  </lib>
+<glyph name="O-cy" format="2">
+	<advance width="900"/>
+	<unicode hex="041E"/>
+	<anchor x="431" y="-167" name="below"/>
+	<anchor x="431" y="869" name="accent"/>
+	<anchor x="432" y="1079" name="above"/>
+	<anchor x="431" y="350" name="slash"/>
+	<outline>
+		<component base="O"/>
+	</outline>
 </glyph>

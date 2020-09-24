@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="macroncomb" format="1">
-  <advance width="340"/>
-  <unicode hex="0304"/>
-  <outline>
-    <component base="macron"/>
-    <contour>
-      <point x="170" y="690" type="move" name="_accent"/>
-    </contour>
-    <contour>
-      <point x="170" y="690" type="move" name="_above"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 07:45:46 +0000</string>
-    </dict>
-  </lib>
+<glyph name="macroncomb" format="2">
+	<advance width="340"/>
+	<unicode hex="0304"/>
+	<anchor x="170" y="690" name="_accent"/>
+	<anchor x="170" y="690" name="_above"/>
+	<outline>
+		<component base="macron"/>
+	</outline>
 </glyph>

@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="logicalnot" format="1">
-  <advance width="660"/>
-  <unicode hex="00AC"/>
-  <outline>
-    <contour>
-      <point x="100" y="410" type="line"/>
-      <point x="100" y="290" type="line"/>
-      <point x="560" y="290" type="line"/>
-      <point x="560" y="410" type="line"/>
-    </contour>
-    <contour>
-      <point x="560" y="380" type="line"/>
-      <point x="440" y="380" type="line"/>
-      <point x="440" y="140" type="line"/>
-      <point x="560" y="140" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:31:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="logicalnot" format="2">
+	<advance width="700"/>
+	<unicode hex="00AC"/>
+	<outline>
+		<contour>
+			<point x="580" y="410" type="line"/>
+			<point x="120" y="410" type="line"/>
+			<point x="120" y="290" type="line"/>
+			<point x="580" y="290" type="line"/>
+		</contour>
+		<contour>
+			<point x="580" y="140" type="line"/>
+			<point x="580" y="380" type="line"/>
+			<point x="460" y="380" type="line"/>
+			<point x="460" y="140" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedblleft" format="1">
-  <advance width="632"/>
-  <unicode hex="201C"/>
-  <outline>
-    <component base="quotedbl" xOffset="632" xScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:30:23 +0000</string>
-    </dict>
-  </lib>
+<glyph name="quotedblleft" format="2">
+	<advance width="640"/>
+	<unicode hex="201C"/>
+	<outline>
+		<component base="quoteleft"/>
+		<component base="quoteleft" xOffset="240"/>
+	</outline>
 </glyph>

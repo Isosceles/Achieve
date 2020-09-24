@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="scaron" format="1">
-  <advance width="650"/>
-  <unicode hex="0161"/>
-  <outline>
-    <component base="s"/>
-    <component base="caron" xOffset="128" yOffset="42"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:58:10 +0000</string>
-    </dict>
-  </lib>
+<glyph name="scaron" format="2">
+	<advance width="650"/>
+	<unicode hex="0161"/>
+	<outline>
+		<component base="s"/>
+		<component base="caron" xOffset="128" yOffset="42"/>
+	</outline>
 </glyph>

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="four.tf" format="1">
-  <advance width="700"/>
-  <outline>
-    <component base="four" xOffset="-17"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 22:21:40 +0000</string>
-    </dict>
-  </lib>
+<glyph name="four.tf" format="2">
+	<advance width="700"/>
+	<outline>
+		<component base="four" xOffset="-17"/>
+	</outline>
 </glyph>

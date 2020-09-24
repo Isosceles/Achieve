@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Gje-cy" format="1">
-  <advance width="693"/>
-  <unicode hex="0403"/>
-  <outline>
-    <component base="Ge-cy"/>
-    <component base="acutecomb" xOffset="264" yOffset="199"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Gje-cy" format="2">
+	<advance width="693"/>
+	<unicode hex="0403"/>
+	<outline>
+		<component base="Ge-cy"/>
+		<component base="acutecomb" xOffset="264" yOffset="199"/>
+	</outline>
 </glyph>

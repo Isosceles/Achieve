@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Itilde" format="1">
-  <advance width="320"/>
-  <unicode hex="0128"/>
-  <outline>
-    <component base="I"/>
-    <component base="tildecomb" xOffset="-150" yOffset="89"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 22:02:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Itilde" format="2">
+	<advance width="300"/>
+	<unicode hex="0128"/>
+	<outline>
+		<component base="I"/>
+		<component base="tildecomb" xOffset="-122" yOffset="89"/>
+	</outline>
 </glyph>

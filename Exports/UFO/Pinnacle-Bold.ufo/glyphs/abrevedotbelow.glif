@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="abrevedotbelow" format="1">
-  <advance width="704"/>
-  <unicode hex="1EB7"/>
-  <outline>
-    <component base="a"/>
-    <component base="brevecomb" xOffset="171" yOffset="36"/>
-    <component base="dotaccentcomb" xOffset="226" yOffset="-884"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 20:59:50 +0000</string>
-    </dict>
-  </lib>
+<glyph name="abrevedotbelow" format="2">
+	<advance width="700"/>
+	<unicode hex="1EB7"/>
+	<outline>
+		<component base="a"/>
+		<component base="brevecomb" xOffset="179" yOffset="36"/>
+		<component base="dotaccentcomb" xOffset="234" yOffset="-884"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>anchor</key>
+					<string>below</string>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

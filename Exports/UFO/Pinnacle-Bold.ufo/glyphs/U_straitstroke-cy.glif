@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ustraitstroke-cy" format="1">
-  <advance width="800"/>
-  <unicode hex="04B0"/>
-  <outline>
-    <contour>
-      <point x="150" y="314" type="line"/>
-      <point x="731" y="314" type="line"/>
-      <point x="731" y="399" type="line"/>
-      <point x="150" y="399" type="line"/>
-    </contour>
-    <component base="Ustrait-cy"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Ustrait-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Ustrait-cy</string>
-    </dict>
-  </lib>
+<glyph name="Ustraitstroke-cy" format="2">
+	<advance width="800"/>
+	<unicode hex="04B0"/>
+	<outline>
+		<contour>
+			<point x="110" y="399" type="line"/>
+			<point x="110" y="314" type="line"/>
+			<point x="691" y="314" type="line"/>
+			<point x="691" y="399" type="line"/>
+		</contour>
+		<component base="Ustrait-cy"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ustrait-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Ustrait-cy</string>
+		</dict>
+	</lib>
 </glyph>

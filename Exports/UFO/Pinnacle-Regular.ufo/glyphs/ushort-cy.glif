@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ushort-cy" format="1">
-  <advance width="684"/>
-  <unicode hex="045E"/>
-  <outline>
-    <component base="u-cy"/>
-    <component base="brevecomb-cy" xOffset="158" yOffset="59"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="ushort-cy" format="2">
+	<advance width="700"/>
+	<unicode hex="045E"/>
+	<outline>
+		<component base="u-cy"/>
+		<component base="brevecomb-cy" xOffset="166" yOffset="59"/>
+	</outline>
 </glyph>

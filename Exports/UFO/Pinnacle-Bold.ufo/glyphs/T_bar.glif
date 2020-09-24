@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tbar" format="1">
-  <advance width="700"/>
-  <unicode hex="0166"/>
-  <outline>
-    <component base="T"/>
-    <component base="strokeshortcomb" xOffset="188" yOffset="-41"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 02:46:01 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>T</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>T</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>strokeshortcomb</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="Tbar" format="2">
+	<advance width="700"/>
+	<unicode hex="0166"/>
+	<outline>
+		<component base="T"/>
+		<component base="strokeshortcomb" xOffset="188" yOffset="-41"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>1</integer>
+					<key>anchor</key>
+					<string>stroke</string>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>strokeshortcomb</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>T</string>
+		</dict>
+	</lib>
 </glyph>

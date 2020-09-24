@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Abreve-cy" format="1">
-  <advance width="756"/>
-  <unicode hex="04D0"/>
-  <outline>
-    <component base="A-cy"/>
-    <component base="brevecomb-cy" xOffset="193" yOffset="169"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Abreve-cy" format="2">
+	<advance width="800"/>
+	<unicode hex="04D0"/>
+	<outline>
+		<component base="A-cy"/>
+		<component base="brevecomb-cy" xOffset="215" yOffset="169"/>
+	</outline>
 </glyph>

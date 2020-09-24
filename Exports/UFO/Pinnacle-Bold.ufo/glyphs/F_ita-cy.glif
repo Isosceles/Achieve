@@ -1,42 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Fita-cy" format="1">
-  <advance width="863"/>
-  <unicode hex="0472"/>
-  <outline>
-    <contour>
-      <point x="622" y="270"/>
-      <point x="678" y="310"/>
-      <point x="717" y="366" type="curve"/>
-      <point x="637" y="421" type="line"/>
-      <point x="610" y="381"/>
-      <point x="584" y="367"/>
-      <point x="552" y="367" type="curve" smooth="yes"/>
-      <point x="523" y="367"/>
-      <point x="488" y="380"/>
-      <point x="450" y="395" type="curve" smooth="yes"/>
-      <point x="403" y="412"/>
-      <point x="353" y="432"/>
-      <point x="304" y="430" type="curve" smooth="yes"/>
-      <point x="243" y="428"/>
-      <point x="189" y="397"/>
-      <point x="146" y="334" type="curve"/>
-      <point x="225" y="279" type="line"/>
-      <point x="253" y="319"/>
-      <point x="279" y="333"/>
-      <point x="311" y="333" type="curve" smooth="yes"/>
-      <point x="341" y="333"/>
-      <point x="376" y="320"/>
-      <point x="414" y="305" type="curve" smooth="yes"/>
-      <point x="460" y="288"/>
-      <point x="510" y="268"/>
-      <point x="559" y="270" type="curve" smooth="yes"/>
-    </contour>
-    <component base="O-cy"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Fita-cy" format="2">
+	<advance width="863"/>
+	<unicode hex="0472"/>
+	<outline>
+		<contour>
+			<point x="559" y="270" type="curve" smooth="yes"/>
+			<point x="622" y="270"/>
+			<point x="678" y="310"/>
+			<point x="717" y="366" type="curve"/>
+			<point x="637" y="421" type="line"/>
+			<point x="610" y="381"/>
+			<point x="584" y="367"/>
+			<point x="552" y="367" type="curve" smooth="yes"/>
+			<point x="523" y="367"/>
+			<point x="488" y="380"/>
+			<point x="450" y="395" type="curve" smooth="yes"/>
+			<point x="403" y="412"/>
+			<point x="353" y="432"/>
+			<point x="304" y="430" type="curve" smooth="yes"/>
+			<point x="243" y="428"/>
+			<point x="189" y="397"/>
+			<point x="146" y="334" type="curve"/>
+			<point x="225" y="279" type="line"/>
+			<point x="253" y="319"/>
+			<point x="279" y="333"/>
+			<point x="311" y="333" type="curve" smooth="yes"/>
+			<point x="341" y="333"/>
+			<point x="376" y="320"/>
+			<point x="414" y="305" type="curve" smooth="yes"/>
+			<point x="460" y="288"/>
+			<point x="510" y="268"/>
+		</contour>
+		<component base="O-cy"/>
+	</outline>
 </glyph>

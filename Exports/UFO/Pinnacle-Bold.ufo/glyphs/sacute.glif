@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="sacute" format="1">
-  <advance width="650"/>
-  <unicode hex="015B"/>
-  <outline>
-    <component base="s"/>
-    <component base="acutecomb" xOffset="235" yOffset="89"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:58:10 +0000</string>
-    </dict>
-  </lib>
+<glyph name="sacute" format="2">
+	<advance width="650"/>
+	<unicode hex="015B"/>
+	<outline>
+		<component base="s"/>
+		<component base="acutecomb" xOffset="235" yOffset="89"/>
+	</outline>
 </glyph>

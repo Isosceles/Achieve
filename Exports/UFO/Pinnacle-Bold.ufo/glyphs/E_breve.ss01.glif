@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ebreve.ss01" format="1">
-  <advance width="776"/>
-  <outline>
-    <component base="E.ss01"/>
-    <component base="brevecomb" xOffset="213" yOffset="146"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 16:24:30 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Ebreve.ss01" format="2">
+	<advance width="761"/>
+	<outline>
+		<component base="E.ss01"/>
+		<component base="brevecomb" xOffset="206" yOffset="146"/>
+	</outline>
 </glyph>

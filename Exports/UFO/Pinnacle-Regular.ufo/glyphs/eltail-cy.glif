@@ -1,26 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="eltail-cy" format="1">
-  <advance width="714"/>
-  <unicode hex="04C6"/>
-  <outline>
-    <component base="el-cy"/>
-    <component base="tail-cy" xOffset="446"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-13 06:46:06 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>1</integer>
-          <key>name</key>
-          <string>tail-cy</string>
-        </dict>
-      </array>
-    </dict>
-  </lib>
+<glyph name="eltail-cy" format="2">
+	<advance width="714"/>
+	<unicode hex="04C6"/>
+	<outline>
+		<component base="el-cy"/>
+		<component base="tail-cy" xOffset="446"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>tail-cy</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

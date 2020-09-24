@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Yerudieresis-cy" format="1">
-  <advance width="835"/>
-  <unicode hex="04F8"/>
-  <outline>
-    <component base="Yeru-cy"/>
-    <component base="dieresiscomb" xOffset="258" yOffset="189"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Yerudieresis-cy" format="2">
+	<advance width="835"/>
+	<unicode hex="04F8"/>
+	<outline>
+		<component base="Yeru-cy"/>
+		<component base="dieresiscomb" xOffset="258" yOffset="189"/>
+	</outline>
 </glyph>

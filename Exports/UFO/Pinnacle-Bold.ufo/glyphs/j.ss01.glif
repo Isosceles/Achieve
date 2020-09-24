@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="j.ss01" format="1">
-  <advance width="360"/>
-  <outline>
-    <component base="jdotless"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:56:17 +0000</string>
-    </dict>
-  </lib>
+<glyph name="j.ss01" format="2">
+	<advance width="360"/>
+	<outline>
+		<component base="jdotless"/>
+	</outline>
 </glyph>

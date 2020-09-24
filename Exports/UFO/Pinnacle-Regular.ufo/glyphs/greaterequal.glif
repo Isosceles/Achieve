@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="greaterequal" format="1">
-  <advance width="490"/>
-  <unicode hex="2265"/>
-  <outline>
-    <component base="lessequal" xOffset="490" xScale="-1"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:31:05 +0000</string>
-    </dict>
-  </lib>
+<glyph name="greaterequal" format="2">
+	<advance width="700"/>
+	<unicode hex="2265"/>
+	<outline>
+		<component base="lessequal" xScale="-1" xOffset="637"/>
+	</outline>
 </glyph>

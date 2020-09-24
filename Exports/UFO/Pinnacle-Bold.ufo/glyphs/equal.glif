@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="equal" format="1">
-  <advance width="620"/>
-  <unicode hex="003D"/>
-  <outline>
-    <contour>
-      <point x="100" y="500" type="line"/>
-      <point x="100" y="380" type="line"/>
-      <point x="520" y="380" type="line"/>
-      <point x="520" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="100" y="320" type="line"/>
-      <point x="100" y="200" type="line"/>
-      <point x="520" y="200" type="line"/>
-      <point x="520" y="320" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:31:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="equal" format="2">
+	<advance width="700"/>
+	<unicode hex="003D"/>
+	<outline>
+		<contour>
+			<point x="560" y="500" type="line"/>
+			<point x="140" y="500" type="line"/>
+			<point x="140" y="380" type="line"/>
+			<point x="560" y="380" type="line"/>
+		</contour>
+		<contour>
+			<point x="560" y="320" type="line"/>
+			<point x="140" y="320" type="line"/>
+			<point x="140" y="200" type="line"/>
+			<point x="560" y="200" type="line"/>
+		</contour>
+	</outline>
 </glyph>

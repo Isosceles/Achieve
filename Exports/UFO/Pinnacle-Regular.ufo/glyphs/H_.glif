@@ -1,34 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="H" format="1">
-  <advance width="745"/>
-  <unicode hex="0048"/>
-  <outline>
-    <contour>
-      <point x="605" y="700" type="line"/>
-      <point x="605" y="0" type="line"/>
-      <point x="665" y="0" type="line"/>
-      <point x="665" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="80" y="700" type="line"/>
-      <point x="80" y="0" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="140" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="110" y="380" type="line"/>
-      <point x="110" y="320" type="line"/>
-      <point x="638" y="320" type="line"/>
-      <point x="638" y="380" type="line"/>
-    </contour>
-    <contour>
-      <point x="374" y="542" type="move" name="bar"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 22:04:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="H" format="2">
+	<advance width="800"/>
+	<unicode hex="0048"/>
+	<anchor x="402" y="542" name="bar"/>
+	<outline>
+		<contour>
+			<point x="633" y="0" type="line"/>
+			<point x="693" y="0" type="line"/>
+			<point x="693" y="700" type="line"/>
+			<point x="633" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="108" y="0" type="line"/>
+			<point x="168" y="0" type="line"/>
+			<point x="168" y="700" type="line"/>
+			<point x="108" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="138" y="320" type="line"/>
+			<point x="666" y="320" type="line"/>
+			<point x="666" y="380" type="line"/>
+			<point x="138" y="380" type="line"/>
+		</contour>
+	</outline>
 </glyph>

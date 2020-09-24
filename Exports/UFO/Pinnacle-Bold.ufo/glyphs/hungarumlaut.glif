@@ -1,28 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlaut" format="1">
-  <advance width="476"/>
-  <unicode hex="02DD"/>
-  <outline>
-    <contour>
-      <point x="238" y="600" type="line"/>
-      <point x="344" y="599" type="line"/>
-      <point x="408" y="743" type="line"/>
-      <point x="302" y="744" type="line"/>
-    </contour>
-    <contour>
-      <point x="60" y="600" type="line"/>
-      <point x="164" y="600" type="line"/>
-      <point x="228" y="744" type="line"/>
-      <point x="124" y="744" type="line"/>
-    </contour>
-    <contour>
-      <point x="208" y="680" type="move" name="_accent"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-03-31 00:28:57 +0000</string>
-    </dict>
-  </lib>
+<glyph name="hungarumlaut" format="2">
+	<advance width="476"/>
+	<unicode hex="02DD"/>
+	<anchor x="208" y="680" name="_accent"/>
+	<outline>
+		<contour>
+			<point x="302" y="744" type="line"/>
+			<point x="238" y="600" type="line"/>
+			<point x="344" y="599" type="line"/>
+			<point x="408" y="743" type="line"/>
+		</contour>
+		<contour>
+			<point x="124" y="744" type="line"/>
+			<point x="60" y="600" type="line"/>
+			<point x="164" y="600" type="line"/>
+			<point x="228" y="744" type="line"/>
+		</contour>
+	</outline>
 </glyph>

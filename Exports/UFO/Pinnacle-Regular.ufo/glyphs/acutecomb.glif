@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutecomb" format="1">
-  <advance width="203"/>
-  <unicode hex="0301"/>
-  <outline>
-    <component base="acute"/>
-    <contour>
-      <point x="69" y="680" type="move" name="_accent"/>
-    </contour>
-    <contour>
-      <point x="69" y="625" type="move" name="_accentside"/>
-    </contour>
-    <contour>
-      <point x="69" y="680" type="move" name="_above"/>
-    </contour>
-    <contour>
-      <point x="69" y="680" type="move" name="_below"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 16:31:11 +0000</string>
-    </dict>
-  </lib>
+<glyph name="acutecomb" format="2">
+	<advance width="203"/>
+	<unicode hex="0301"/>
+	<anchor x="69" y="680" name="_accent"/>
+	<anchor x="69" y="625" name="_accentside"/>
+	<anchor x="69" y="680" name="_above"/>
+	<anchor x="69" y="680" name="_below"/>
+	<outline>
+		<component base="acute"/>
+	</outline>
 </glyph>

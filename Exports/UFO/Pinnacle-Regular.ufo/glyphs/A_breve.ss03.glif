@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve.ss03" format="2">
+	<advance width="800"/>
+	<outline>
+		<component base="A.ss03"/>
+		<component base="brevecomb" xOffset="215" yOffset="169"/>
+	</outline>
+</glyph>

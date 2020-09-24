@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idotbelow" format="1">
-  <advance width="320"/>
-  <unicode hex="1ECA"/>
-  <outline>
-    <component base="I"/>
-    <component base="dotaccentcomb" xOffset="30" yOffset="-884"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 22:02:33 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Idotbelow" format="2">
+	<advance width="300"/>
+	<unicode hex="1ECA"/>
+	<outline>
+		<component base="I"/>
+		<component base="dotaccentcomb" xOffset="20" yOffset="-884"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>anchor</key>
+					<string>below</string>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Agrave" format="1">
-  <advance width="828"/>
-  <unicode hex="00C0"/>
-  <outline>
-    <component base="A"/>
-    <component base="gravecomb" xOffset="240" yOffset="199"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 21:43:43 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Agrave" format="2">
+	<advance width="800"/>
+	<unicode hex="00C0"/>
+	<outline>
+		<component base="A"/>
+		<component base="gravecomb" xOffset="226" yOffset="199"/>
+	</outline>
 </glyph>

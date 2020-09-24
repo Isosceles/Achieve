@@ -1,61 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dzeabkhasian-cy" format="1">
-  <advance width="754"/>
-  <unicode hex="04E1"/>
-  <outline>
-    <contour>
-      <point x="459" y="-150" type="line" smooth="yes"/>
-      <point x="577" y="-150"/>
-      <point x="674" y="-53"/>
-      <point x="674" y="65" type="curve" smooth="yes"/>
-      <point x="674" y="183"/>
-      <point x="578" y="280"/>
-      <point x="459" y="280" type="curve" smooth="yes"/>
-      <point x="394" y="280" type="line"/>
-      <point x="403" y="255" type="line"/>
-      <point x="612" y="433" type="line" smooth="yes"/>
-      <point x="635" y="452"/>
-      <point x="645" y="478"/>
-      <point x="645" y="503" type="curve" smooth="yes"/>
-      <point x="645" y="552"/>
-      <point x="607" y="600"/>
-      <point x="549" y="600" type="curve" smooth="yes"/>
-      <point x="115" y="600" type="line"/>
-      <point x="115" y="440" type="line"/>
-      <point x="411" y="440" type="line"/>
-      <point x="402" y="465" type="line"/>
-      <point x="193" y="287" type="line" smooth="yes"/>
-      <point x="170" y="268"/>
-      <point x="160" y="242"/>
-      <point x="160" y="217" type="curve" smooth="yes"/>
-      <point x="160" y="168"/>
-      <point x="198" y="120"/>
-      <point x="256" y="120" type="curve" smooth="yes"/>
-      <point x="459" y="120" type="line" smooth="yes"/>
-      <point x="490" y="120"/>
-      <point x="514" y="96"/>
-      <point x="514" y="65" type="curve" smooth="yes"/>
-      <point x="514" y="34"/>
-      <point x="490" y="10"/>
-      <point x="459" y="10" type="curve" smooth="yes"/>
-      <point x="259" y="10" type="line" smooth="yes"/>
-      <point x="240" y="10"/>
-      <point x="223" y="19"/>
-      <point x="213" y="34" type="curve"/>
-      <point x="80" y="-54" type="line"/>
-      <point x="119" y="-112"/>
-      <point x="185" y="-150"/>
-      <point x="259" y="-150" type="curve" smooth="yes"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-14 06:36:32 +0000</string>
-      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-      <string>Dzeabkhasian-cy</string>
-      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-      <string>Dzeabkhasian-cy</string>
-    </dict>
-  </lib>
+<glyph name="dzeabkhasian-cy" format="2">
+	<advance width="754"/>
+	<unicode hex="04E1"/>
+	<outline>
+		<contour>
+			<point x="259" y="-150" type="curve" smooth="yes"/>
+			<point x="459" y="-150" type="line" smooth="yes"/>
+			<point x="577" y="-150"/>
+			<point x="674" y="-53"/>
+			<point x="674" y="65" type="curve" smooth="yes"/>
+			<point x="674" y="183"/>
+			<point x="578" y="280"/>
+			<point x="459" y="280" type="curve" smooth="yes"/>
+			<point x="394" y="280" type="line"/>
+			<point x="403" y="255" type="line"/>
+			<point x="612" y="433" type="line" smooth="yes"/>
+			<point x="635" y="452"/>
+			<point x="645" y="478"/>
+			<point x="645" y="503" type="curve" smooth="yes"/>
+			<point x="645" y="552"/>
+			<point x="607" y="600"/>
+			<point x="549" y="600" type="curve" smooth="yes"/>
+			<point x="115" y="600" type="line"/>
+			<point x="115" y="440" type="line"/>
+			<point x="411" y="440" type="line"/>
+			<point x="402" y="465" type="line"/>
+			<point x="193" y="287" type="line" smooth="yes"/>
+			<point x="170" y="268"/>
+			<point x="160" y="242"/>
+			<point x="160" y="217" type="curve" smooth="yes"/>
+			<point x="160" y="168"/>
+			<point x="198" y="120"/>
+			<point x="256" y="120" type="curve" smooth="yes"/>
+			<point x="459" y="120" type="line" smooth="yes"/>
+			<point x="490" y="120"/>
+			<point x="514" y="96"/>
+			<point x="514" y="65" type="curve" smooth="yes"/>
+			<point x="514" y="34"/>
+			<point x="490" y="10"/>
+			<point x="459" y="10" type="curve" smooth="yes"/>
+			<point x="259" y="10" type="line" smooth="yes"/>
+			<point x="240" y="10"/>
+			<point x="223" y="19"/>
+			<point x="213" y="34" type="curve"/>
+			<point x="80" y="-54" type="line"/>
+			<point x="119" y="-112"/>
+			<point x="185" y="-150"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Dzeabkhasian-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Dzeabkhasian-cy</string>
+		</dict>
+	</lib>
 </glyph>

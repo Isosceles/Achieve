@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acute" format="1">
-  <advance width="203"/>
-  <unicode hex="00B4"/>
-  <outline>
-    <contour>
-      <point x="40" y="600" type="line"/>
-      <point x="99" y="600" type="line"/>
-      <point x="163" y="744" type="line"/>
-      <point x="104" y="744" type="line"/>
-    </contour>
-    <contour>
-      <point x="69" y="680" type="move" name="_accent"/>
-    </contour>
-    <contour>
-      <point x="69" y="625" type="move" name="_accentside"/>
-    </contour>
-    <contour>
-      <point x="69" y="680" type="move" name="_above"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 07:44:56 +0000</string>
-    </dict>
-  </lib>
+<glyph name="acute" format="2">
+	<advance width="203"/>
+	<unicode hex="00B4"/>
+	<anchor x="69" y="680" name="_accent"/>
+	<anchor x="69" y="625" name="_accentside"/>
+	<anchor x="69" y="680" name="_above"/>
+	<outline>
+		<contour>
+			<point x="104" y="744" type="line"/>
+			<point x="40" y="600" type="line"/>
+			<point x="99" y="600" type="line"/>
+			<point x="163" y="744" type="line"/>
+		</contour>
+	</outline>
 </glyph>

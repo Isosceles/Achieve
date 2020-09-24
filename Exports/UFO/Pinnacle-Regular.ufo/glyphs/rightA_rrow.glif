@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="rightArrow" format="1">
-  <advance width="800"/>
-  <unicode hex="2192"/>
-  <outline>
-    <contour>
-      <point x="646" y="306" type="line" smooth="yes"/>
-      <point x="659" y="319"/>
-      <point x="665" y="334"/>
-      <point x="665" y="349" type="curve" smooth="yes"/>
-      <point x="665" y="364"/>
-      <point x="658" y="379"/>
-      <point x="646" y="392" type="curve" smooth="yes"/>
-      <point x="456" y="583" type="line"/>
-      <point x="414" y="541" type="line"/>
-      <point x="605" y="349" type="line"/>
-      <point x="414" y="158" type="line"/>
-      <point x="456" y="116" type="line"/>
-    </contour>
-    <contour>
-      <point x="627" y="319" type="line"/>
-      <point x="627" y="379" type="line"/>
-      <point x="135" y="379" type="line"/>
-      <point x="135" y="319" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 06:19:55 +0000</string>
-    </dict>
-  </lib>
+<glyph name="rightArrow" format="2">
+	<advance width="800"/>
+	<unicode hex="2192"/>
+	<outline>
+		<contour>
+			<point x="456" y="116" type="line"/>
+			<point x="646" y="306" type="line" smooth="yes"/>
+			<point x="659" y="319"/>
+			<point x="665" y="334"/>
+			<point x="665" y="349" type="curve" smooth="yes"/>
+			<point x="665" y="364"/>
+			<point x="658" y="379"/>
+			<point x="646" y="392" type="curve" smooth="yes"/>
+			<point x="456" y="583" type="line"/>
+			<point x="414" y="541" type="line"/>
+			<point x="605" y="349" type="line"/>
+			<point x="414" y="158" type="line"/>
+		</contour>
+		<contour>
+			<point x="135" y="319" type="line"/>
+			<point x="627" y="319" type="line"/>
+			<point x="627" y="379" type="line"/>
+			<point x="135" y="379" type="line"/>
+		</contour>
+	</outline>
 </glyph>

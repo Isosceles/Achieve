@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zero.ss01" format="1">
-  <advance width="733"/>
-  <outline>
-    <contour>
-      <point x="128" y="152" type="line"/>
-      <point x="171" y="109" type="line"/>
-      <point x="601" y="538" type="line"/>
-      <point x="558" y="581" type="line"/>
-    </contour>
-    <component base="zero"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 08:53:05 +0000</string>
-    </dict>
-  </lib>
+<glyph name="zero.ss01" format="2">
+	<advance width="733"/>
+	<outline>
+		<contour>
+			<point x="558" y="581" type="line"/>
+			<point x="128" y="152" type="line"/>
+			<point x="171" y="109" type="line"/>
+			<point x="601" y="538" type="line"/>
+		</contour>
+		<component base="zero" xOffset="-10"/>
+	</outline>
 </glyph>

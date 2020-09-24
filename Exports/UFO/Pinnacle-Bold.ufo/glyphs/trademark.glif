@@ -1,63 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="trademark" format="1">
-  <advance width="788"/>
-  <unicode hex="2122"/>
-  <outline>
-    <contour>
-      <point x="186" y="657" type="line"/>
-      <point x="203" y="640" type="line"/>
-      <point x="100" y="640" type="line"/>
-      <point x="100" y="700" type="line"/>
-      <point x="333" y="700" type="line"/>
-      <point x="333" y="640" type="line"/>
-      <point x="230" y="640" type="line"/>
-      <point x="247" y="657" type="line"/>
-      <point x="247" y="436" type="line"/>
-      <point x="186" y="436" type="line"/>
-    </contour>
-    <contour>
-      <point x="409" y="610" type="line"/>
-      <point x="409" y="632"/>
-      <point x="426" y="650"/>
-      <point x="448" y="650" type="curve"/>
-      <point x="470" y="650"/>
-      <point x="488" y="632"/>
-      <point x="488" y="610" type="curve"/>
-      <point x="488" y="436" type="line"/>
-      <point x="549" y="436" type="line"/>
-      <point x="549" y="610" type="line"/>
-      <point x="549" y="665"/>
-      <point x="503" y="710"/>
-      <point x="448" y="710" type="curve"/>
-      <point x="394" y="710"/>
-      <point x="348" y="665"/>
-      <point x="348" y="610" type="curve"/>
-      <point x="348" y="436" type="line"/>
-      <point x="409" y="436" type="line"/>
-    </contour>
-    <contour>
-      <point x="549" y="632"/>
-      <point x="566" y="650"/>
-      <point x="588" y="650" type="curve"/>
-      <point x="610" y="650"/>
-      <point x="628" y="632"/>
-      <point x="628" y="610" type="curve"/>
-      <point x="628" y="436" type="line"/>
-      <point x="688" y="436" type="line"/>
-      <point x="688" y="610" type="line"/>
-      <point x="688" y="665"/>
-      <point x="643" y="710"/>
-      <point x="588" y="710" type="curve"/>
-      <point x="533" y="710"/>
-      <point x="488" y="665"/>
-      <point x="488" y="610" type="curve"/>
-      <point x="549" y="610" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 02:28:49 +0000</string>
-    </dict>
-  </lib>
+<glyph name="trademark" format="2">
+	<advance width="788"/>
+	<unicode hex="2122"/>
+	<outline>
+		<contour>
+			<point x="186" y="436" type="line"/>
+			<point x="186" y="657" type="line"/>
+			<point x="203" y="640" type="line"/>
+			<point x="100" y="640" type="line"/>
+			<point x="100" y="700" type="line"/>
+			<point x="333" y="700" type="line"/>
+			<point x="333" y="640" type="line"/>
+			<point x="230" y="640" type="line"/>
+			<point x="247" y="657" type="line"/>
+			<point x="247" y="436" type="line"/>
+		</contour>
+		<contour>
+			<point x="409" y="436" type="line"/>
+			<point x="409" y="610" type="line" smooth="yes"/>
+			<point x="409" y="632"/>
+			<point x="426" y="650"/>
+			<point x="448" y="650" type="curve" smooth="yes"/>
+			<point x="470" y="650"/>
+			<point x="488" y="632"/>
+			<point x="488" y="610" type="curve" smooth="yes"/>
+			<point x="488" y="436" type="line"/>
+			<point x="549" y="436" type="line"/>
+			<point x="549" y="610" type="line" smooth="yes"/>
+			<point x="549" y="665"/>
+			<point x="503" y="710"/>
+			<point x="448" y="710" type="curve" smooth="yes"/>
+			<point x="394" y="710"/>
+			<point x="348" y="665"/>
+			<point x="348" y="610" type="curve" smooth="yes"/>
+			<point x="348" y="436" type="line"/>
+		</contour>
+		<contour>
+			<point x="549" y="610" type="line"/>
+			<point x="549" y="632"/>
+			<point x="566" y="650"/>
+			<point x="588" y="650" type="curve" smooth="yes"/>
+			<point x="610" y="650"/>
+			<point x="628" y="632"/>
+			<point x="628" y="610" type="curve" smooth="yes"/>
+			<point x="628" y="436" type="line"/>
+			<point x="688" y="436" type="line"/>
+			<point x="688" y="610" type="line" smooth="yes"/>
+			<point x="688" y="665"/>
+			<point x="643" y="710"/>
+			<point x="588" y="710" type="curve" smooth="yes"/>
+			<point x="533" y="710"/>
+			<point x="488" y="665"/>
+			<point x="488" y="610" type="curve"/>
+		</contour>
+	</outline>
 </glyph>

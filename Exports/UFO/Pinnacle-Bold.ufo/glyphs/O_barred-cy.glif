@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Obarred-cy" format="1">
-  <advance width="863"/>
-  <unicode hex="04E8"/>
-  <outline>
-    <contour>
-      <point x="697" y="291" type="line"/>
-      <point x="697" y="411" type="line"/>
-      <point x="165" y="410" type="line"/>
-      <point x="165" y="290" type="line"/>
-    </contour>
-    <component base="O-cy"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Obarred-cy" format="2">
+	<advance width="863"/>
+	<unicode hex="04E8"/>
+	<outline>
+		<contour>
+			<point x="165" y="290" type="line"/>
+			<point x="697" y="290" type="line"/>
+			<point x="697" y="410" type="line"/>
+			<point x="165" y="410" type="line"/>
+		</contour>
+		<component base="O-cy"/>
+	</outline>
 </glyph>

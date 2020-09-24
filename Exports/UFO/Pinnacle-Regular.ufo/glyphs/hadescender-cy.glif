@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hadescender-cy" format="1">
-  <advance width="802"/>
-  <unicode hex="04B3"/>
-  <outline>
-    <contour>
-      <point x="742" y="-100" type="line"/>
-      <point x="742" y="0" type="line" smooth="yes"/>
-      <point x="742" y="39"/>
-      <point x="721" y="60"/>
-      <point x="682" y="60" type="curve"/>
-      <point x="682" y="-100" type="line"/>
-    </contour>
-    <component base="x"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-13 06:20:13 +0000</string>
-    </dict>
-  </lib>
+<glyph name="hadescender-cy" format="2">
+	<advance width="760"/>
+	<unicode hex="04B3"/>
+	<outline>
+		<contour>
+			<point x="619" y="-100" type="line"/>
+			<point x="679" y="-100" type="line"/>
+			<point x="679" y="0" type="line" smooth="yes"/>
+			<point x="679" y="39"/>
+			<point x="658" y="60"/>
+			<point x="619" y="60" type="curve"/>
+		</contour>
+		<component base="x" xOffset="7"/>
+	</outline>
 </glyph>

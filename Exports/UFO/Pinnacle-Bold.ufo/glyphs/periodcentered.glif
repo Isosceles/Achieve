@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="periodcentered" format="1">
-  <advance width="400"/>
-  <unicode hex="00B7"/>
-  <outline>
-    <component base="bullet"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-04 06:10:03 +0000</string>
-    </dict>
-  </lib>
+<glyph name="periodcentered" format="2">
+	<advance width="400"/>
+	<unicode hex="00B7"/>
+	<outline>
+		<component base="bullet.case"/>
+	</outline>
 </glyph>

@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="strokeshortcomb" format="1">
-  <advance width="320"/>
-  <unicode hex="0335"/>
-  <outline>
-    <contour>
-      <point x="0" y="348" type="line"/>
-      <point x="320" y="348" type="line"/>
-      <point x="320" y="434" type="line"/>
-      <point x="0" y="434" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="391" type="move" name="_accent"/>
-    </contour>
-    <contour>
-      <point x="157" y="391" type="move" name="_bar"/>
-    </contour>
-    <contour>
-      <point x="157" y="391" type="move" name="_below"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 16:31:58 +0000</string>
-    </dict>
-  </lib>
+<glyph name="strokeshortcomb" format="2">
+	<advance width="320"/>
+	<unicode hex="0335"/>
+	<anchor x="157" y="391" name="_stroke"/>
+	<anchor x="157" y="391" name="_accent"/>
+	<anchor x="157" y="391" name="_bar"/>
+	<anchor x="157" y="391" name="_below"/>
+	<outline>
+		<contour>
+			<point x="0" y="348" type="line"/>
+			<point x="320" y="348" type="line"/>
+			<point x="320" y="434" type="line"/>
+			<point x="0" y="434" type="line"/>
+		</contour>
+	</outline>
 </glyph>

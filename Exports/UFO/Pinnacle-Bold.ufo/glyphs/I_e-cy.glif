@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ie-cy" format="1">
-  <advance width="775"/>
-  <unicode hex="0415"/>
-  <outline>
-    <component base="E"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-10 22:02:53 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Ie-cy" format="2">
+	<advance width="760"/>
+	<unicode hex="0415"/>
+	<outline>
+		<component base="E"/>
+	</outline>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Schwadieresis-cy" format="1">
-  <advance width="890"/>
-  <unicode hex="04DA"/>
-  <outline>
-    <component base="Schwa-cy"/>
-    <component base="dieresiscomb" xOffset="228" yOffset="152"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-12 20:43:15 +0000</string>
-    </dict>
-  </lib>
+<glyph name="Schwadieresis-cy" format="2">
+	<advance width="890"/>
+	<unicode hex="04DA"/>
+	<outline>
+		<component base="Schwa-cy"/>
+		<component base="dieresiscomb" xOffset="228" yOffset="152"/>
+	</outline>
 </glyph>

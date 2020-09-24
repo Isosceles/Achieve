@@ -1,21 +1,21 @@
 # automatic
-@Uppercase = [ A A.ss01 A.ss02 A.ss03 Aacute Aacute.ss01 Abreve Abreve.ss01 Abreveacute Abrevedotbelow Abrevegrave Abrevetilde Acaron Acaron.ss01 Acircumflex Acircumflex.ss01 Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflextilde Adieresis Adieresis.ss01 Adotaccent Adotaccent.ss01 Adotbelow Agrave Agrave.ss01 Amacron Amacron.ss01 Aogonek Aogonek.ss01 Aring Aring.ss01 Atilde Atilde.ss01 AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E E.ss01 Eacute Eacute.ss01 Ebreve Ebreve.ss01 Ecaron Ecaron.ss01 Ecircumflex Ecircumflex.ss01 Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflextilde Edieresis Edieresis.ss01 Edotaccent Edotaccent.ss01 Edotbelow Egrave Egrave.ss01 Emacron Emacron.ss01 Eogonek Eogonek.ss01 Etilde Etilde.ss01 F G Gbreve Gcaron Gcommaaccent Gdotaccent H Hbar I Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M M.ss01 N Nacute Ncaron Ncommaaccent Ndotaccent Eng Ntilde O O.ss01 Oacute Oacute.ss01 Ocaron Ocaron.ss01 Ocircumflex Ocircumflex.ss01 Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflextilde Odieresis Odieresis.ss01 Odotaccent Odotaccent.ss01 Ograve Ograve.ss01 Ohungarumlaut Ohungarumlaut.ss01 Omacron Omacron.ss01 Oslash Oslash.ss01 Otilde Otilde.ss01 OE P P.ss01 Thorn Q R R.ss01 R.ss02 R.ss03 Racute Racute.ss01 Racute.ss02 Racute.ss03 Rcaron Rcaron.ss01 Rcaron.ss02 Rcaron.ss03 Rcommaaccent Rcommaaccent.ss01 Rcommaaccent.ss02 Rcommaaccent.ss03 S Sacute Scaron Scedilla Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring V W W.ss01 Wacute Wcircumflex Wdieresis Wgrave X X.ss01 Y Y.ss01 Yacute Yacute.ss01 Ycircumflex Ycircumflex.ss01 Ydieresis Ydieresis.ss01 Ygrave Ygrave.ss01 Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy De-cy.ss01 Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy Kje-cy El-cy El-cy.ss01 Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy ];
+@Uppercase = [ A A.ss01 A.ss02 A.ss03 Aacute Aacute.ss01 Aacute.ss02 Aacute.ss03 Abreve Abreve.ss01 Abreve.ss02 Abreve.ss03 Abreveacute Abrevedotbelow Abrevegrave Abrevetilde Acaron Acaron.ss01 Acaron.ss02 Acaron.ss03 Acircumflex Acircumflex.ss01 Acircumflex.ss02 Acircumflex.ss03 Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflextilde Adieresis Adieresis.ss01 Adieresis.ss02 Adieresis.ss03 Adotaccent Adotaccent.ss01 Adotaccent.ss02 Adotaccent.ss03 Adotbelow Adotbelow.ss01 Agrave Agrave.ss01 Amacron Amacron.ss01 Amacron.ss02 Amacron.ss03 Aogonek Aogonek.ss01 Aogonek.ss02 Aogonek.ss03 Aring Aring.ss01 Aring.ss02 Aring.ss03 Atilde Atilde.ss01 Atilde.ss02 Atilde.ss03 AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E E.ss01 Eacute Eacute.ss01 Ebreve Ebreve.ss01 Ecaron Ecaron.ss01 Ecircumflex Ecircumflex.ss01 Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflextilde Edieresis Edieresis.ss01 Edotaccent Edotaccent.ss01 Edotbelow Egrave Egrave.ss01 Emacron Emacron.ss01 Eogonek Eogonek.ss01 Etilde Etilde.ss01 F G Gbreve Gcaron Gcommaaccent Gdotaccent Yogh H Hbar I Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M M.ss01 N Nacute Ncaron Ncommaaccent Ndotaccent Eng Ntilde O O.ss01 Oacute Oacute.ss01 Ocaron Ocaron.ss01 Ocircumflex Ocircumflex.ss01 Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflextilde Odieresis Odieresis.ss01 Odotaccent Odotaccent.ss01 Ograve Ograve.ss01 Ohungarumlaut Ohungarumlaut.ss01 Omacron Omacron.ss01 Oslash Oslash.ss01 Otilde Otilde.ss01 OE P P.ss01 Thorn Q R R.ss01 R.ss02 Racute Racute.ss01 Racute.ss02 Rcaron Rcaron.ss01 Rcaron.ss02 Rcommaaccent Rcommaaccent.ss01 Rcommaaccent.ss02 S Sacute Scaron Scedilla Scommaaccent T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring V W W.ss01 Wacute Wcircumflex Wdieresis Wgrave X X.ss01 Y Y.ss01 Yacute Yacute.ss01 Ycircumflex Ycircumflex.ss01 Ydieresis Ydieresis.ss01 Ygrave Ygrave.ss01 Z Zacute Zcaron Zdotaccent A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy De-cy.ss01 Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy Kje-cy El-cy El-cy.ss01 Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Hardsign-cy Yeru-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Ghestroke-cy Ghemiddlehook-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Gedescender-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy ];
 
 # Prefix: Languagesystems
 # automatic
 languagesystem DFLT dflt;
+
 languagesystem latn dflt;
-languagesystem latn ROM;
-languagesystem latn MOL;
+languagesystem latn AZE;
+languagesystem latn CRT;
 languagesystem latn KAZ;
 languagesystem latn TAT;
 languagesystem latn TRK;
-languagesystem latn CRT;
-languagesystem latn AZE;
+languagesystem latn ROM;
+languagesystem latn MOL;
 
 feature aalt {
 # automatic
-feature ccmp;
 feature locl;
 feature pnum;
 feature tnum;
@@ -38,27 +38,25 @@ lookup ccmp_Other_1 {
 
 feature locl {
 # automatic
-script latn;
-language ROM;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language MOL;
-sub Scedilla by Scommaaccent;
-sub scedilla by scommaaccent;
-sub Tcedilla by Tcommaaccent;
-sub tcedilla by tcommaaccent;
-language KAZ;
-sub i by idotaccent;
-language TAT;
-sub i by idotaccent;
-language TRK;
-sub i by idotaccent;
-language CRT;
-sub i by idotaccent;
-language AZE;
-sub i by idotaccent;
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	language CRT;
+	language KAZ;
+	language TAT;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
 } locl;
 
 feature pnum {
@@ -92,18 +90,34 @@ sub nine by nine.tf;
 feature case {
 # automatic
 sub germandbls by germandbls.case;
+sub bullet by bullet.case;
+sub emdash by emdash.case;
+sub endash by endash.case;
+sub hyphen by hyphen.case;
 } case;
 
 feature dlig {
 # automatic
+lookupflag IgnoreMarks;
 sub A S by A_S;
 sub E S by E_S;
 sub I J by I_J;
 sub K S by K_S;
 sub N N by N_N;
 sub R S by R_S;
-sub g j by g_j;
 } dlig;
+
+feature liga {
+# automatic
+lookupflag IgnoreMarks;
+sub f i by fi;
+sub f l by fl;
+} liga;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
 
 feature salt {
 # automatic
@@ -114,6 +128,7 @@ sub Acaron by Acaron.ss01;
 sub Acircumflex by Acircumflex.ss01;
 sub Adieresis by Adieresis.ss01;
 sub Adotaccent by Adotaccent.ss01;
+sub Adotbelow by Adotbelow.ss01;
 sub Agrave by Agrave.ss01;
 sub Amacron by Amacron.ss01;
 sub Aogonek by Aogonek.ss01;
@@ -154,7 +169,6 @@ sub Yacute by Yacute.ss01;
 sub Ycircumflex by Ycircumflex.ss01;
 sub Ydieresis by Ydieresis.ss01;
 sub Ygrave by Ygrave.ss01;
-sub f by f.ss01;
 sub i by i.ss01;
 sub j by j.ss01;
 sub E_S by E_S.ss01;
@@ -174,6 +188,7 @@ sub Acaron by Acaron.ss01;
 sub Acircumflex by Acircumflex.ss01;
 sub Adieresis by Adieresis.ss01;
 sub Adotaccent by Adotaccent.ss01;
+sub Adotbelow by Adotbelow.ss01;
 sub Agrave by Agrave.ss01;
 sub Amacron by Amacron.ss01;
 sub Aogonek by Aogonek.ss01;
@@ -214,7 +229,6 @@ sub Yacute by Yacute.ss01;
 sub Ycircumflex by Ycircumflex.ss01;
 sub Ydieresis by Ydieresis.ss01;
 sub Ygrave by Ygrave.ss01;
-sub f by f.ss01;
 sub i by i.ss01;
 sub j by j.ss01;
 sub E_S by E_S.ss01;
@@ -228,6 +242,16 @@ sub ampersand by ampersand.ss01;
 feature ss02 {
 # automatic
 sub A by A.ss02;
+sub Aacute by Aacute.ss02;
+sub Abreve by Abreve.ss02;
+sub Acaron by Acaron.ss02;
+sub Acircumflex by Acircumflex.ss02;
+sub Adieresis by Adieresis.ss02;
+sub Adotaccent by Adotaccent.ss02;
+sub Amacron by Amacron.ss02;
+sub Aogonek by Aogonek.ss02;
+sub Aring by Aring.ss02;
+sub Atilde by Atilde.ss02;
 sub R by R.ss02;
 sub Racute by Racute.ss02;
 sub Rcaron by Rcaron.ss02;
@@ -238,14 +262,15 @@ sub at by at.ss02;
 feature ss03 {
 # automatic
 sub A by A.ss03;
-sub R by R.ss03;
-sub Racute by Racute.ss03;
-sub Rcaron by Rcaron.ss03;
-sub Rcommaaccent by Rcommaaccent.ss03;
+sub Aacute by Aacute.ss03;
+sub Abreve by Abreve.ss03;
+sub Acaron by Acaron.ss03;
+sub Acircumflex by Acircumflex.ss03;
+sub Adieresis by Adieresis.ss03;
+sub Adotaccent by Adotaccent.ss03;
+sub Amacron by Amacron.ss03;
+sub Aogonek by Aogonek.ss03;
+sub Aring by Aring.ss03;
+sub Atilde by Atilde.ss03;
 } ss03;
-
-feature cpsp {
-# automatic
-pos @Uppercase <5 0 10 0>;
-} cpsp;
 

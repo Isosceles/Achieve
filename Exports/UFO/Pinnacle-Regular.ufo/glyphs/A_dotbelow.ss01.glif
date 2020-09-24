@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adotbelow.ss01" format="2">
+	<advance width="800"/>
+	<outline>
+		<component base="A.ss01"/>
+		<component base="dotaccentcomb" xOffset="320" yOffset="-849"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>anchor</key>
+					<string>below</string>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>dotaccentcomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

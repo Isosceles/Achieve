@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ereversed-cy" format="2">
+	<advance width="718"/>
+	<outline>
+		<contour>
+			<point x="109" y="230" type="move"/>
+		</contour>
+		<contour>
+			<point x="109" y="350" type="move"/>
+		</contour>
+	</outline>
+</glyph>

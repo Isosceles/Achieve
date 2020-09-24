@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="less" format="1">
-  <advance width="579"/>
-  <unicode hex="003C"/>
-  <outline>
-    <contour>
-      <point x="476" y="273" type="line"/>
-      <point x="280" y="353" type="line"/>
-      <point x="479" y="442" type="line"/>
-      <point x="431" y="552" type="line"/>
-      <point x="156" y="430" type="line" smooth="yes"/>
-      <point x="119" y="414"/>
-      <point x="100" y="383"/>
-      <point x="100" y="352" type="curve" smooth="yes"/>
-      <point x="100" y="321"/>
-      <point x="120" y="289"/>
-      <point x="159" y="273" type="curve" smooth="yes"/>
-      <point x="430" y="161" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:31:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="less" format="2">
+	<advance width="700"/>
+	<unicode hex="003C"/>
+	<outline>
+		<contour>
+			<point x="490" y="161" type="line"/>
+			<point x="536" y="273" type="line"/>
+			<point x="340" y="353" type="line"/>
+			<point x="539" y="442" type="line"/>
+			<point x="491" y="552" type="line"/>
+			<point x="216" y="430" type="line" smooth="yes"/>
+			<point x="179" y="414"/>
+			<point x="160" y="383"/>
+			<point x="160" y="352" type="curve" smooth="yes"/>
+			<point x="160" y="321"/>
+			<point x="180" y="289"/>
+			<point x="219" y="273" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
 </glyph>

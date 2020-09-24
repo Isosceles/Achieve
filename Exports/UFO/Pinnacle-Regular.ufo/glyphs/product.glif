@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="product" format="1">
-  <advance width="680"/>
-  <unicode hex="220F"/>
-  <outline>
-    <contour>
-      <point x="190" y="0" type="line"/>
-      <point x="250" y="0" type="line"/>
-      <point x="250" y="700" type="line"/>
-      <point x="190" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="700" type="line"/>
-      <point x="40" y="640" type="line"/>
-      <point x="640" y="640" type="line"/>
-      <point x="640" y="700" type="line"/>
-    </contour>
-    <contour>
-      <point x="430" y="0" type="line"/>
-      <point x="490" y="0" type="line"/>
-      <point x="490" y="700" type="line"/>
-      <point x="430" y="700" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-04-11 01:31:02 +0000</string>
-    </dict>
-  </lib>
+<glyph name="product" format="2">
+	<advance width="700"/>
+	<unicode hex="220F"/>
+	<outline>
+		<contour>
+			<point x="200" y="700" type="line"/>
+			<point x="200" y="0" type="line"/>
+			<point x="260" y="0" type="line"/>
+			<point x="260" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="650" y="700" type="line"/>
+			<point x="50" y="700" type="line"/>
+			<point x="50" y="640" type="line"/>
+			<point x="650" y="640" type="line"/>
+		</contour>
+		<contour>
+			<point x="440" y="700" type="line"/>
+			<point x="440" y="0" type="line"/>
+			<point x="500" y="0" type="line"/>
+			<point x="500" y="700" type="line"/>
+		</contour>
+	</outline>
 </glyph>
