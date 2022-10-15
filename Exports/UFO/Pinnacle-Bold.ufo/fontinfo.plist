@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>700</integer>
 	<key>copyright</key>
-	<string>(C) 2020 Lauren Herda, All Rights Reserved</string>
+	<string>(C) 2022 Lauren Herda</string>
 	<key>descender</key>
 	<integer>-230</integer>
 	<key>familyName</key>
@@ -18,10 +18,6 @@
 	<string>Lauren Herda</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>herda.me</string>
-	<key>openTypeNameManufacturer</key>
-	<string>Isosceles</string>
-	<key>openTypeNameManufacturerURL</key>
-	<string>isosceles.design</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Extra Bold</string>
 	<key>openTypeOS2WeightClass</key>
