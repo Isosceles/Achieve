@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ia-cy" format="2">
-	<advance width="754"/>
-	<unicode hex="042F"/>
-	<outline>
-		<component base="R" xScale="-1" xOffset="754"/>
-	</outline>
-</glyph>

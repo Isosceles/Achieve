@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ereversed-cy" format="2">
-	<advance width="718"/>
-	<unicode hex="044D"/>
-	<outline>
-		<component base="e-cy" xScale="-1" xOffset="718"/>
-	</outline>
-</glyph>

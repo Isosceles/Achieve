@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Etilde.ss01" format="2">
-	<advance width="761"/>
-	<outline>
-		<component base="E.ss01"/>
-		<component base="tildecomb" xOffset="119" yOffset="89"/>
-	</outline>
-</glyph>
