@@ -1,5 +1,5 @@
 {
-.appVersion = "1361";
+.appVersion = "1363";
 DisplayStrings = (
 "/shhadescender-cy",
 h,
@@ -29550,7 +29550,7 @@ unicode = 04A0;
 },
 {
 glyphname = "Endescender-cy";
-lastChange = "2017-04-12 20:43:15 +0000";
+lastChange = "2023-02-06 14:28:34 +0000";
 layers = (
 {
 components = (
@@ -29589,20 +29589,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"605 60 LINE",
-"605 0 LINE",
-"692 0 LINE",
-"665 27 LINE",
-"665 -100 LINE",
-"725 -100 LINE",
-"725 0 LINE SMOOTH",
-"725 39 OFFCURVE",
-"704 60 OFFCURVE",
-"665 60 CURVE SMOOTH"
+"633 60 LINE",
+"633 0 LINE",
+"720 0 LINE",
+"693 27 LINE",
+"693 -100 LINE",
+"753 -100 LINE",
+"753 0 LINE SMOOTH",
+"753 39 OFFCURVE",
+"732 60 OFFCURVE",
+"693 60 CURVE SMOOTH"
 );
 }
 );
-width = 785;
+width = 813;
 }
 );
 unicode = 04A2;
