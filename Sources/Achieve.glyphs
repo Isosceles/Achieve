@@ -13,7 +13,7 @@ code = "A A.ss01 A.ss02 A.ss03 Aacute Aacute.ss01 Aacute.ss02 Aacute.ss03 Abreve
 name = Uppercase;
 }
 );
-copyright = "Copyright 2022 The Achieve Project Authors (https://github.com/Isosceles/Achieve)";
+copyright = "Copyright 2023 The Achieve Project Authors (https://github.com/Isosceles/Achieve)";
 customParameters = (
 {
 name = fsType;
