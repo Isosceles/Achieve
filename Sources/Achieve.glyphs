@@ -1,10 +1,7 @@
 {
 .appVersion = "3151";
 DisplayStrings = (
-"/shhadescender-cy",
-h,
-"/Germandbls",
-"ÁÁ/Abreveacute/Abrevedotbelow/Abrevegrave/Abrevetilde/Acaron/Acaron ÂÂ/Acircumflexacute/Acircumflexacute/Acircumflexdotbelow/Acircumflexdotbelow/Acircumflexgrave/Acircumflexgrave/Acircumflextilde/Acircumflextilde ÄÄ/Adotaccent/Adotaccent ÀÀ/Amacron/Amacron ÃÃÉÉ/Eacute.ss01/Eacute.ss01/Ebreve/Ebreve/Ebreve.ss01/Ebreve.ss01/Ecaron/Ecaron/Ecaron.ss01/Ecaron.ss01 ÊÊ/Ecircumflex.ss01/Ecircumflex.ss01/Ecircumflexacute/Ecircumflexacute/Ecircumflexdotbelow/Ecircumflexdotbelow/Ecircumflexgrave/Ecircumflexgrave/Ecircumflextilde/Ecircumflextilde ËË/Edieresis.ss01/Edieresis.ss01/Edotaccent/Edotaccent/Edotaccent.ss01/Edotaccent.ss01 ÈÈ/Egrave.ss01/Egrave.ss01/Emacron/Emacron/Emacron.ss01/Emacron.ss01/Etilde/Etilde/Etilde.ss01/Etilde.ss01 ÍÍ/Icaron/Icaron ÎÎÏÏ/Idotaccent/Idotaccent ÌÌ/Imacron/Imacron/Itilde/Itilde ÓÓ/Oacute.ss01/Oacute.ss01/Ocaron/Ocaron/Ocaron.ss01/Ocaron.ss01 ÔÔ/Ocircumflex.ss01/Ocircumflex.ss01/Ocircumflexacute/Ocircumflexacute/Ocircumflexdotbelow/Ocircumflexdotbelow/Ocircumflexgrave/Ocircumflexgrave/Ocircumflextilde/Ocircumflextilde ÖÖ/Odieresis.ss01/Odieresis.ss01/Odotaccent/Odotaccent/Odotaccent.ss01/Odotaccent.ss01 ÒÒ/Ograve.ss01/Ograve.ss01/Omacron/Omacron/Omacron.ss01/Omacron.ss01 ÕÕ/Otilde.ss01/Otilde.ss01 ÚÚ/Ucaron/Ucaron ÛÛÜÜ/Udieresisacute/Udieresisacute/Udieresiscaron/Udieresiscaron/Udieresisgrave/Udieresisgrave/Udieresismacron/Udieresismacron ÙÙ/Umacron/Umacron ÝÝ/Yacute.ss01/Yacute.ss01/Ycircumflex/Ycircumflex/Ycircumflex.ss01/Ycircumflex.ss01/Ydieresis/Ydieresis/Ydieresis.ss01/Ydieresis.ss01/Ygrave/Ygrave/Ygrave.ss01/Ygrave.ss01 áá/abreveacute/abrevedotbelow/abrevegrave/abrevetilde/acaron/acaron ââ/acircumflexacute/acircumflexacute/acircumflexdotbelow/acircumflexdotbelow/acircumflexgrave/acircumflexgrave/acircumflextilde/acircumflextilde ääàà/amacron/amacron ããéé/ecaron/ecaron êê/ecircumflexacute/ecircumflexacute/ecircumflexdotbelow/ecircumflexdotbelow/ecircumflexgrave/ecircumflexgrave/ecircumflextilde/ecircumflextilde ëë/edotaccent/edotaccent èè/emacron/emacron/etilde/etilde íí/icaron/icaron îîïï/idotaccent/idotaccent/idotbelow/idotbelow ìì/imacron/imacron/iogonek/iogonek/itilde/itilde óó/ocaron/ocaron ôô/ocircumflexacute/ocircumflexacute/ocircumflexdotbelow/ocircumflexdotbelow/ocircumflexgrave/ocircumflexgrave/ocircumflextilde/ocircumflextilde ööòò/omacron/omacron õõúú/ucaron/ucaron ûûüü/udieresisacute/udieresisacute/udieresiscaron/udieresiscaron/udieresisgrave/udieresisgrave/udieresismacron/udieresismacron ùù/umacron/umacron ýý/ycircumflex/ycircumflex/ydieresis/ydieresis/ygrave/ygrave/Gje-cy/Gje-cy/Io-cy/Io-cy/Yi-cy/Yi-cy/Adieresis-cy/Adieresis-cy/Schwadieresis-cy/Schwadieresis-cy/Zedieresis-cy/Zedieresis-cy/Odieresis-cy/Odieresis-cy/Obarreddieresis-cy/Obarreddieresis-cy/Edieresis-cy/Edieresis-cy/Umacron-cy/Umacron-cy/Udieresis-cy/Udieresis-cy/Chedieresis-cy/Chedieresis-cy/Yerudieresis-cy/Yerudieresis-cy/io-cy/io-cy/kje-cy/kje-cy/yi-cy/yi-cy/adieresis-cy/adieresis-cy/schwadieresis-cy/schwadieresis-cy/zedieresis-cy/zedieresis-cy/odieresis-cy/odieresis-cy/obarreddieresis-cy/obarreddieresis-cy/edieresis-cy/edieresis-cy/umacron-cy/umacron-cy/udieresis-cy/udieresis-cy/chedieresis-cy/chedieresis-cy/yerudieresis-cy/yerudieresis-cy/zero.tf/zero.tf/zero.tf/zero.tf/one.tf/one.tf/one.tf/one.tf/two.tf/two.tf/two.tf/two.tf/three.tf/three.tf/three.tf/three.tf/four.tf/four.tf/four.tf/four.tf/five.tf/five.tf/five.tf/five.tf/six.tf/six.tf/six.tf/six.tf/seven.tf/seven.tf/seven.tf/seven.tf/eight.tf/eight.tf/eight.tf/eight.tf/nine.tf/nine.tf/nine.tf/nine.tf/circumflex/circumflex"
+"A/A.ss01 ´/acutecomb/Aacute.ss01"
 );
 classes = (
 {
@@ -195,6 +192,7 @@ ascender = 1000;
 capHeight = 700;
 customParameters = (
 {
+disabled = 1;
 name = "Master Background Color";
 value = "255,226,183,255";
 }
@@ -848,7 +846,7 @@ unicode = 00C1;
 },
 {
 glyphname = Aacute.ss01;
-lastChange = "2017-06-05 15:40:45 +0000";
+lastChange = "2023-03-31 23:36:02 +0000";
 layers = (
 {
 components = (
@@ -6442,7 +6440,7 @@ unicode = 0139;
 },
 {
 glyphname = Lcaron;
-lastChange = "2017-06-06 22:46:46 +0000";
+lastChange = "2023-03-31 23:36:19 +0000";
 layers = (
 {
 components = (
@@ -6453,7 +6451,7 @@ name = L;
 alignment = 1;
 anchor = accentside;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 272, 55}";
+transform = "{1, 0, 0, 1, 272, 56}";
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
@@ -16777,7 +16775,7 @@ unicode = 00F0;
 },
 {
 glyphname = dcaron;
-lastChange = "2017-04-11 08:06:00 +0000";
+lastChange = "2023-03-31 23:36:19 +0000";
 layers = (
 {
 components = (
@@ -16787,7 +16785,7 @@ name = d;
 {
 alignment = 1;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 622, 55}";
+transform = "{1, 0, 0, 1, 622, 56}";
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
@@ -19473,7 +19471,7 @@ unicode = 013A;
 },
 {
 glyphname = lcaron;
-lastChange = "2017-06-06 22:46:25 +0000";
+lastChange = "2023-03-31 23:36:19 +0000";
 layers = (
 {
 components = (
@@ -19485,7 +19483,7 @@ name = l;
 alignment = 1;
 anchor = accentside;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 242, 55}";
+transform = "{1, 0, 0, 1, 242, 56}";
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
@@ -22402,7 +22400,7 @@ unicode = 0167;
 },
 {
 glyphname = tcaron;
-lastChange = "2017-06-06 22:42:50 +0000";
+lastChange = "2023-03-31 23:36:19 +0000";
 layers = (
 {
 components = (
@@ -22413,7 +22411,7 @@ name = t;
 alignment = 1;
 anchor = accentside;
 name = acutecomb;
-transform = "{1, 0, 0, 1, 292, 55}";
+transform = "{1, 0, 0, 1, 292, 56}";
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
@@ -57970,7 +57968,7 @@ unicode = 0300;
 },
 {
 glyphname = acutecomb;
-lastChange = "2017-04-16 08:02:22 +0000";
+lastChange = "2023-03-31 23:35:53 +0000";
 layers = (
 {
 anchors = (
@@ -57985,18 +57983,20 @@ position = "{69, 680}";
 {
 name = _accentside;
 position = "{69, 625}";
-},
-{
-name = _below;
-position = "{69, 680}";
-}
-);
-components = (
-{
-name = acute;
 }
 );
 layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
+paths = (
+{
+closed = 1;
+nodes = (
+"40 600 LINE",
+"99 600 LINE",
+"163 744 LINE",
+"104 744 LINE"
+);
+}
+);
 width = 203;
 },
 {
@@ -58011,19 +58011,21 @@ position = "{103, 670}";
 },
 {
 name = _accentside;
-position = "{103, 645}";
-},
-{
-name = _below;
-position = "{103, 670}";
-}
-);
-components = (
-{
-name = acute;
+position = "{103, 644}";
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
+paths = (
+{
+closed = 1;
+nodes = (
+"50 600 LINE",
+"154 600 LINE",
+"218 744 LINE",
+"114 744 LINE"
+);
+}
+);
 width = 278;
 }
 );
@@ -59043,64 +59045,24 @@ unicode = 0060;
 },
 {
 glyphname = acute;
-lastChange = "2017-04-11 07:44:56 +0000";
+lastChange = "2023-03-31 23:36:08 +0000";
 layers = (
 {
-anchors = (
+components = (
 {
-name = _above;
-position = "{69, 680}";
-},
-{
-name = _accent;
-position = "{69, 680}";
-},
-{
-name = _accentside;
-position = "{69, 625}";
+name = acutecomb;
 }
 );
 layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
-paths = (
-{
-closed = 1;
-nodes = (
-"40 600 LINE",
-"99 600 LINE",
-"163 744 LINE",
-"104 744 LINE"
-);
-}
-);
 width = 203;
 },
 {
-anchors = (
+components = (
 {
-name = _above;
-position = "{103, 670}";
-},
-{
-name = _accent;
-position = "{103, 670}";
-},
-{
-name = _accentside;
-position = "{103, 644}";
+name = acutecomb;
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
-paths = (
-{
-closed = 1;
-nodes = (
-"50 600 LINE",
-"154 600 LINE",
-"218 744 LINE",
-"114 744 LINE"
-);
-}
-);
 width = 278;
 }
 );
@@ -59812,7 +59774,7 @@ instanceInterpolations = {
 "880850B5-8983-48F5-8B3B-C79FAB21DC5C" = 0.4;
 "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5" = 0.6;
 };
-name = "Demi Bold";
+name = SemiBold;
 weightClass = SemiBold;
 },
 {
@@ -59822,7 +59784,6 @@ instanceInterpolations = {
 "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5" = 0.8;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 weightClass = Bold;
 },
@@ -59831,7 +59792,7 @@ interpolationWeight = 800;
 instanceInterpolations = {
 "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5" = 1;
 };
-name = "Extra Bold";
+name = ExtraBold;
 weightClass = ExtraBold;
 }
 );
