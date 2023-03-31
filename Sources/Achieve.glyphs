@@ -150,6 +150,38 @@ customParameters = (
 {
 name = "Master Background Color";
 value = "195,232,245,255";
+},
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -230;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -230;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 230;
 }
 );
 descender = -230;
@@ -195,6 +227,38 @@ customParameters = (
 disabled = 1;
 name = "Master Background Color";
 value = "255,226,183,255";
+},
+{
+name = typoAscender;
+value = 1000;
+},
+{
+name = typoDescender;
+value = -230;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1000;
+},
+{
+name = hheaDescender;
+value = -230;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1000;
+},
+{
+name = winDescent;
+value = 230;
 }
 );
 descender = -230;
