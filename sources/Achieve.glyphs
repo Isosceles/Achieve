@@ -4,12 +4,13 @@ DisplayStrings = (
 "THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG",
 "/descender-cy/gedescender-cy/shhadescender-cy",
 "/brevecomb-cy",
-"/nbspace"
+"/nbspace",
+"/idotless/idotless_dotbelowcomb/dotaccent/dotaccentcomb/dotbelowcomb/idotless/idotless_ogonekcomb/idotbelow/idotless i"
 );
 classes = (
 {
 automatic = 1;
-code = "A A.ss01 A.ss02 A.ss03 Aacute Aacute.ss01 Aacute.ss02 Aacute.ss03 Abreve Abreve.ss01 Abreve.ss02 Abreve.ss03 Abreveacute Abrevedotbelow Abrevegrave Abrevetilde Acaron Acaron.ss01 Acaron.ss02 Acaron.ss03 Acircumflex Acircumflex.ss01 Acircumflex.ss02 Acircumflex.ss03 Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflextilde Adieresis Adieresis.ss01 Adieresis.ss02 Adieresis.ss03 Adotaccent Adotaccent.ss01 Adotaccent.ss02 Adotaccent.ss03 Adotbelow Adotbelow.ss01 Agrave Agrave.ss01 Amacron Amacron.ss01 Amacron.ss02 Amacron.ss03 Aogonek Aogonek.ss01 Aogonek.ss02 Aogonek.ss03 Aring Aring.ss01 Aring.ss02 Aring.ss03 Atilde Atilde.ss01 Atilde.ss02 Atilde.ss03 AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E E.ss01 Eacute Eacute.ss01 Ebreve Ebreve.ss01 Ecaron Ecaron.ss01 Ecircumflex Ecircumflex.ss01 Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflextilde Edieresis Edieresis.ss01 Edotaccent Edotaccent.ss01 Edotbelow Egrave Egrave.ss01 Emacron Emacron.ss01 Eogonek Eogonek.ss01 Etilde Etilde.ss01 F G Gbreve Gcaron Gcommaaccent Gdotaccent Yogh H Hbar I Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M M.ss01 N Nacute Ncaron Ncommaaccent Ndotaccent Ntilde Eng O O.ss01 Oacute Oacute.ss01 Ocaron Ocaron.ss01 Ocircumflex Ocircumflex.ss01 Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflextilde Odieresis Odieresis.ss01 Odotaccent Odotaccent.ss01 Ograve Ograve.ss01 Ohungarumlaut Ohungarumlaut.ss01 Omacron Omacron.ss01 Oslash Oslash.ss01 Otilde Otilde.ss01 OE P P.ss01 Thorn Q R R.ss01 R.ss02 Racute Racute.ss01 Racute.ss02 Rcaron Rcaron.ss01 Rcaron.ss02 Rcommaaccent Rcommaaccent.ss01 Rcommaaccent.ss02 S Sacute Scaron Scedilla Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring V W W.ss01 Wacute Wcircumflex Wdieresis Wgrave X X.ss01 Y Y.ss01 Yacute Yacute.ss01 Ycircumflex Ycircumflex.ss01 Ydieresis Ydieresis.ss01 Ygrave Ygrave.ss01 Z Zacute Zcaron Zdotaccent germandbls.case A_S E_S E_S.ss01 I_J K_S N_N R_S A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy Gedescender-cy Ghestroke-cy Ghemiddlehook-cy De-cy De-cy.ss01 Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy Kje-cy El-cy El-cy.ss01 Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy Enghe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustrait-cy Ustraitstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy";
+code = "A A.ss01 A.ss02 A.ss03 Aacute Aacute.ss01 Aacute.ss02 Aacute.ss03 Abreve Abreve.ss01 Abreve.ss02 Abreve.ss03 Abreveacute Abrevedotbelow Abrevegrave Abrevetilde Acaron Acaron.ss01 Acaron.ss02 Acaron.ss03 Acircumflex Acircumflex.ss01 Acircumflex.ss02 Acircumflex.ss03 Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflextilde Adieresis Adieresis.ss01 Adieresis.ss02 Adieresis.ss03 Adotaccent Adotaccent.ss01 Adotaccent.ss02 Adotaccent.ss03 Adotbelow Adotbelow.ss01 Agrave Agrave.ss01 Amacron Amacron.ss01 Amacron.ss02 Amacron.ss03 Aogonek Aogonek.ss01 Aogonek.ss02 Aogonek.ss03 Aring Aring.ss01 Aring.ss02 Aring.ss03 Atilde Atilde.ss01 Atilde.ss02 Atilde.ss03 AE B C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat E E.ss01 Eacute Eacute.ss01 Ebreve Ebreve.ss01 Ecaron Ecaron.ss01 Ecircumflex Ecircumflex.ss01 Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflextilde Edieresis Edieresis.ss01 Edotaccent Edotaccent.ss01 Edotbelow Egrave Egrave.ss01 Emacron Emacron.ss01 Eogonek Eogonek.ss01 Etilde Etilde.ss01 F G Gbreve Gcaron Gcommaaccent Gdotaccent Yogh H Hbar I Iacute Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Imacron Iogonek Itilde J K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M M.ss01 N Nacute Ncaron Ncommaaccent Ndotaccent Ntilde Eng O O.ss01 Oacute Oacute.ss01 Ocaron Ocaron.ss01 Ocircumflex Ocircumflex.ss01 Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflextilde Odieresis Odieresis.ss01 Odotaccent Odotaccent.ss01 Ograve Ograve.ss01 Ohungarumlaut Ohungarumlaut.ss01 Omacron Omacron.ss01 Oslash Oslash.ss01 Otilde Otilde.ss01 OE P P.ss01 Thorn Q R R.ss01 R.ss02 Racute Racute.ss01 Racute.ss02 Rcaron Rcaron.ss01 Rcaron.ss02 Rcommaaccent Rcommaaccent.ss01 Rcommaaccent.ss02 S Sacute Scaron Scedilla Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring V W W.ss01 Wacute Wcircumflex Wdieresis Wgrave X X.ss01 Y Y.ss01 Yacute Yacute.ss01 Ycircumflex Ycircumflex.ss01 Ydieresis Ydieresis.ss01 Ygrave Ygrave.ss01 Z Zacute Zcaron Zdotaccent germandbls.case A_S E_S E_S.ss01 I_J K_S N_N R_S A-cy Be-cy Ve-cy Ge-cy Gje-cy Geupturn-cy Gedescender-cy Gestroke-cy Gemiddlehook-cy De-cy De-cy.ss01 Ie-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Ka-cy Kje-cy El-cy El-cy.ss01 Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ushort-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Yu-cy Ya-cy Dje-cy Yat-cy Fita-cy Izhitsa-cy Zhedescender-cy Zedescender-cy Kadescender-cy Kaverticalstroke-cy Kastroke-cy Kabashkir-cy Endescender-cy EnGe-cy Pemiddlehook-cy Pedescender-cy Haabkhasian-cy Esdescender-cy Tedescender-cy Ustraight-cy Ustraightstroke-cy Hadescender-cy Tetse-cy Chedescender-cy Cheverticalstroke-cy Shha-cy Shhadescender-cy Cheabkhasian-cy Chedescenderabkhasian-cy Palochka-cy Zhebreve-cy Kahook-cy Eltail-cy Enhook-cy Entail-cy Chekhakassian-cy Emtail-cy Abreve-cy Adieresis-cy Aie-cy Iebreve-cy Schwa-cy Schwadieresis-cy Zhedieresis-cy Zedieresis-cy Dzeabkhasian-cy Imacron-cy Idieresis-cy Odieresis-cy Obarred-cy Obarreddieresis-cy Edieresis-cy Umacron-cy Udieresis-cy Uhungarumlaut-cy Chedieresis-cy Yerudieresis-cy Hahook-cy Reversedze-cy Elhook-cy We-cy";
 name = Uppercase;
 }
 );
@@ -83,7 +84,7 @@ name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb ogonekcomb slashlongcomb slashshortcomb strokelongcomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	sub fi by f i;\012	sub fl by f l;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [cedillacomb dotbelowcomb ogonekcomb slashlongcomb slashshortcomb strokelongcomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	sub fi by f i;\012	sub fl by f l;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
 name = ccmp;
 },
 {
@@ -18652,6 +18653,67 @@ rightKerningGroup = i;
 unicode = 0131;
 },
 {
+glyphname = idotless_dotbelowcomb;
+lastChange = "2023-04-01 01:22:04 +0000";
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dotbelowcomb;
+}
+);
+layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
+width = 260;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = dotbelowcomb;
+}
+);
+layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
+width = 360;
+}
+);
+},
+{
+glyphname = idotless_ogonekcomb;
+layers = (
+{
+components = (
+{
+name = idotless;
+},
+{
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 36, 8}";
+}
+);
+layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
+width = 260;
+},
+{
+components = (
+{
+name = idotless;
+},
+{
+name = ogonekcomb;
+transform = "{1, 0, 0, 1, 58, 8}";
+}
+);
+layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
+width = 360;
+}
+);
+},
+{
 glyphname = iacute;
 lastChange = "2023-03-31 23:13:08 +0000";
 layers = (
@@ -18863,24 +18925,15 @@ rightKerningGroup = i;
 },
 {
 glyphname = idotbelow;
-lastChange = "2023-03-31 23:13:08 +0000";
+lastChange = "2023-04-01 01:22:13 +0000";
 layers = (
 {
 components = (
 {
-alignment = -1;
-name = idotless;
+name = i;
 },
 {
-alignment = -1;
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 50, 42}";
-},
-{
-alignment = -1;
-anchor = below;
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 50, -884}";
+name = dotbelowcomb;
 }
 );
 layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
@@ -18889,19 +18942,10 @@ width = 360;
 {
 components = (
 {
-alignment = -1;
-name = idotless;
+name = i;
 },
 {
-alignment = -1;
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 50, 77}";
-},
-{
-alignment = -1;
-anchor = below;
-name = dotaccentcomb;
-transform = "{1, 0, 0, 1, 50, -849}";
+name = dotbelowcomb;
 }
 );
 layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
@@ -58513,6 +58557,49 @@ width = 180;
 unicode = 0312;
 },
 {
+glyphname = dotbelowcomb;
+lastChange = "2023-04-01 01:21:42 +0000";
+layers = (
+{
+anchors = (
+{
+name = _bottom;
+position = "{136, 8}";
+}
+);
+components = (
+{
+alignment = -1;
+anchor = below;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 50, -849}";
+}
+);
+layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
+width = 260;
+},
+{
+anchors = (
+{
+name = _bottom;
+position = "{173, 8}";
+}
+);
+components = (
+{
+alignment = -1;
+anchor = below;
+name = dotaccentcomb;
+transform = "{1, 0, 0, 1, 50, -884}";
+}
+);
+layerId = "F6EA0DC9-EF0B-4EA3-BC35-C878CD5534E5";
+width = 360;
+}
+);
+unicode = 0323;
+},
+{
 glyphname = commaaccentcomb;
 lastChange = "2017-04-18 11:37:37 +0000";
 layers = (
@@ -59816,7 +59903,7 @@ unicode = 02DB;
 },
 {
 glyphname = slashshort;
-lastChange = "2023-04-01 00:22:22 +0000";
+lastChange = "2023-04-01 01:15:14 +0000";
 layers = (
 {
 layerId = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
