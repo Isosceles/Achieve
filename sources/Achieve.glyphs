@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "1364";
 DisplayStrings = (
 "THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG",
 "/descender-cy/gedescender-cy/shhadescender-cy",
@@ -152,7 +152,6 @@ ascender = 1000;
 capHeight = 700;
 customParameters = (
 {
-disabled = 1;
 name = "Master Background Color";
 value = "195,232,245,255";
 },
@@ -162,7 +161,7 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -230;
+value = -280;
 },
 {
 name = typoLineGap;
@@ -174,7 +173,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -230;
+value = -280;
 },
 {
 name = hheaLineGap;
@@ -203,7 +202,6 @@ horizontalStems = (
 60
 );
 id = "880850B5-8983-48F5-8B3B-C79FAB21DC5C";
-name = Light;
 userData = {
 GSCornerRadius = 36;
 GSOffsetHorizontal = 22;
@@ -215,7 +213,7 @@ verticalStems = (
 60,
 60
 );
-weight = "";
+weight = Light;
 weightValue = 300;
 xHeight = 600;
 },
@@ -232,7 +230,6 @@ capHeight = 700;
 custom = Extra;
 customParameters = (
 {
-disabled = 1;
 name = "Master Background Color";
 value = "255,226,183,255";
 },
@@ -242,7 +239,7 @@ value = 1000;
 },
 {
 name = typoDescender;
-value = -230;
+value = -280;
 },
 {
 name = typoLineGap;
@@ -254,7 +251,7 @@ value = 1000;
 },
 {
 name = hheaDescender;
-value = -230;
+value = -280;
 },
 {
 name = hheaLineGap;
@@ -60281,9 +60278,6 @@ f = {
 "de-cy" = -50;
 "te-cy" = -40;
 };
-"yu-cy" = {
-"te-cy" = -30;
-};
 "ka-cy" = {
 "@MMK_R_o" = -70;
 "te-cy" = -40;
@@ -60309,6 +60303,9 @@ one = -50;
 "ve-cy" = {
 "el-cy" = -10;
 "ie-cy" = -20;
+};
+"yu-cy" = {
+"te-cy" = -30;
 };
 "ze-cy" = {
 "@MMK_R_o" = -30;
