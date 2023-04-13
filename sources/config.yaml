@@ -1,6 +1,6 @@
 sources:
   - Achieve.glyphs
 familyName: "Achieve"
-buildTTF: false
+# buildTTF: false
 buildOTF: false
 buildWebfont: False
