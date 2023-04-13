@@ -44,3 +44,9 @@ Then run the this command:
 cd sources
 gftools builder config.yml
 ```
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is available with a FAQ at
+https://scripts.sil.org/OFL
